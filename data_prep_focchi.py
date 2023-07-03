@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun 20 13:52:49 2023
-
-@author: utente
+FOR THE READER: all the directories must be modified to run the code
 """
 
 import pandas as pd
