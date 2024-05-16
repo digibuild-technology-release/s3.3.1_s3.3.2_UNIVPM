@@ -146,7 +146,7 @@ def sPMV_calculation(indoorT, indoorRH, sensor, date):
         ####if you select from 8 to 6 as month (WARNING: data from june have been not provided) --> buratti et al. model will be implemented for summer season
         #summer
     # for i in months:
-        if i >= 7 and i <= 8   :
+        if i >= 6 and i <= 8   :
             #simplified PMV with coefficient by Buratti et al - these coefficients have been computed by considering different Iclo
             #in this case, Iclo[025-0.50]
             a_a=0.2803
