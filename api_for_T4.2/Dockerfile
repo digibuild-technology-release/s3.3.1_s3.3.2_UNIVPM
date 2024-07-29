@@ -5,7 +5,7 @@ FROM python:3.10-slim
 # Set the working directory
 WORKDIR /app
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install -r requirements.txt
 RUN rm requirements.txt
 COPY . .
 # Expose the port FastAPI will run on
