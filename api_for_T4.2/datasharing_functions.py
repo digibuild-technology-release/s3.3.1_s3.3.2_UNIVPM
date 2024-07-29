@@ -17,6 +17,8 @@ logging.basicConfig(stream=sys.stdout, level=logging.INFO, format="%(asctime)s -
 log = logging.getLogger(__name__)
 
 def gen_token(username, password):
+    print('generating token')
+
     '''
         Purpose: Generates an authentication token by making a POST request to a specific URL with the provided username and password.
     Parameters:
