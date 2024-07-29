@@ -2,11 +2,12 @@ import requests, json, logging, sys
 import pandas as pd
 from dotenv import load_dotenv
 import os
+import urllib.parse
 
 load_dotenv()
 
 
-client_id= os.getenv("IDM_CLIENT_ID")
+client_id=os.getenv("IDM_CLIENT_ID")
 client_secret=os.getenv("IDM_CLIENT_SECRET")
 realm=os.getenv("IDM_REALM")
 base_url=os.getenv("IDM_BASE_URL")
@@ -28,8 +29,16 @@ def gen_token(username, password):
     Returns: The access token as a string.
     '''
     url = f"{base_url}/realms/{realm}/protocol/openid-connect/token"
+    payload_parameters = {
+        'grant_type': 'password',
+        'client_id': client_id,
+        'client_secret': client_secret,
+        'scope': 'openid',
+        'username': username,
+        'password': password
+    }
 
-    payload = f'grant_type=password&client_id={client_id}&client_secret={client_secret}&scope=openid&username={username}&password={password}'
+    payload = urllib.parse.urlencode(payload_parameters)
     headers = {
         'Content-Type': 'application/x-www-form-urlencoded'
     }
@@ -81,6 +90,3 @@ def execute_query(token, pilot, sensors, time_from = None, time_to = None):
     resp_json = json.loads(response.text)
     df = pd.DataFrame(resp_json, columns=['datetime', 'sensor_id', 'value'])
     return df
-
-
-
