@@ -18,10 +18,10 @@ security = HTTPBearer()
 
 #focchi
 #ML credentials
-MLFLOW_TRACKING_URI= os.getenv("MLFLOW_BASE_URL")
-AWS_SECRET_ACCESS_KEY= os.getenv("S3_SECRET_KEY")
-MLFLOW_S3_ENDPOINT_URL= os.getenv("MLFLOW_S3_URL")
-AWS_ACCESS_KEY_ID= os.getenv("S3_ACCESS_KEY")
+os.environ["MLFLOW_TRACKING_URI"]= os.getenv("MLFLOW_BASE_URL")
+os.environ["AWS_SECRET_ACCESS_KEY"]= os.getenv("S3_SECRET_KEY")
+os.environ["MLFLOW_S3_ENDPOINT_URL"]= os.getenv("MLFLOW_S3_URL")
+os.environ["AWS_ACCESS_KEY_ID"]=  os.getenv("S3_ACCESS_KEY")
 #datasharing credentials
 username = os.getenv("IDM_USERNAME") 
 password = os.getenv("IDM_PASSWORD") 
