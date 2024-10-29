@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  php-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    hostname: php_app
+    ports:
+      - "8081:80"
+    volumes:
+      - .:/var/www/html
+    environment:
+      MYSQL_HOST: mysql-db
+      MYSQL_USER: digibuild
+      MYSQL_PASSWORD: DigiBittY23
+      MYSQL_DATABASE: digibuild
+    networks:
+      - app-network
+    depends_on:
+      - mysql-db
+    restart: always
+
+
+  python-bot:
+    build:
+      context: ./bot
+      dockerfile: Dockerfile
+    networks:
+      - app-network
+    depends_on:
+      - mysql-db
+
+  mysql-db:
+    image: mysql:5.7
+    hostname: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: digibuild
+      MYSQL_USER: digibuild
+      MYSQL_PASSWORD: DigiBittY23
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  mysql-data:

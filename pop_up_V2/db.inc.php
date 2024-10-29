@@ -1,7 +1,7 @@
 <?php
 
 // Database configuration
-$hostname = "localhost";
+$hostname = "mysql";
 $username = "digibuild";
 $password = "DigiBittY23";
 $database = "digibuild";
@@ -13,3 +13,4 @@ $conn = new mysqli($hostname, $username, $password, $database);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
+?>
