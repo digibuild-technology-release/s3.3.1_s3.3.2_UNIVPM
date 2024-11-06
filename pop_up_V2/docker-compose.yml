@@ -15,8 +15,6 @@ services:
       MYSQL_USER: digibuild
       MYSQL_PASSWORD: DigiBittY23
       MYSQL_DATABASE: digibuild
-    networks:
-      - app-network
     depends_on:
       - mysql-db
     restart: always
@@ -26,8 +24,6 @@ services:
     build:
       context: ./bot
       dockerfile: Dockerfile
-    networks:
-      - app-network
     depends_on:
       - mysql-db
 
@@ -42,12 +38,7 @@ services:
     volumes:
       - mysql-data:/var/lib/mysql
       - ./init.sql:/docker-entrypoint-initdb.d/init.sql
-    networks:
-      - app-network
 
-networks:
-  app-network:
-    driver: bridge
 
 volumes:
   mysql-data:
