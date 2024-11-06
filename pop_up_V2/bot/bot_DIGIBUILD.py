@@ -27,7 +27,7 @@ def is_reminder_time():
 # push notification
 async def send_push_notification():
     bot = Bot(token=TOKEN)
-    await bot.send_message(chat_id=CHAT_ID, text="Please, fill the questionnaire. \nClick on: https://digibuild-demo.eu/digibuild/", disable_notification=False)
+    await bot.send_message(chat_id=CHAT_ID, text="Please, fill the questionnaire. \nClick on: https://services.digibuild-project.eu/popup/", disable_notification=False)
 
 # Funzione principale asincrona per eseguire il bot
 async def main():
