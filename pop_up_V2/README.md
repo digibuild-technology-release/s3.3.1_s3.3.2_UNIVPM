@@ -63,10 +63,10 @@ pop_up_V2/
 
 The following environment variables are used to connect the PHP application to the MySQL database:
 
-- `MYSQL_HOST`: The hostname of the MySQL service (set to `mysql-db`).
-- `MYSQL_USER`: The username for MySQL (default is `digibuild`).
-- `MYSQL_PASSWORD`: The password for MySQL (default is `DigiBittY23`).
-- `MYSQL_DATABASE`: The name of the database (default is `digibuild`).
+- `MYSQL_HOST`: The hostname of the MySQL service.
+- `MYSQL_USER`: The username for MySQL.
+- `MYSQL_PASSWORD`: The password for MySQL.
+- `MYSQL_DATABASE`: The name of the database.
 
 These values are configured in `docker-compose.yml` and passed to the PHP application automatically.
 
