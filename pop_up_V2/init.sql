@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS thermal_data (
 -- Populate the pilots table
 INSERT INTO pilots (id, name, label) VALUES
 (1, 'UNIVPM', 'UNIVPM'),
-(2, 'Fires', 'Fires'),
+(2, 'FOCCHI', 'FOCCHI'),
 (3, 'Helsinki', 'Helsinki'),
 (4, 'IECCP', 'IECCP'),
 (5, 'UCL', 'UCL'),
