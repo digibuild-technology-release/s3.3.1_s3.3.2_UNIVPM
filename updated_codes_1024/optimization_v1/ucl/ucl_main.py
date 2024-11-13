@@ -26,7 +26,8 @@ df_d, df_n=split_day_night(df_or, h_start_work, h_stop_work)
 df=df_d.loc[0:135] 
 
 
-NEXT_TEMP=tuple(df_d['outT'][len(df):len(df)+10])
+NEXT_TEMP=tuple(df_d['outT'][len(df):len(df)+10]) #to be changed with outdoor temp of the next day between 9:00 and 18:00
+
 K =10
 DIST_SOGLIA=2.5 
 
