@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from itertools import combinations
 from mpl_toolkits.mplot3d import Axes3D
-from functions_opt_paretoefficient import *    
+from FOCCHI_functions_opt_paretoefficient import *    
 import pandas as pd
 
 INPUT_CSV_FILE = 'C:/Users/utente/OneDrive - Università Politecnica delle Marche/Desktop/OTTIMIZZAZIONE_COLLAB/per marinelli/datasets/focchi/input_focchi.csv'                                              

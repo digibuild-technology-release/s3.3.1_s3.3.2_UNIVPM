@@ -219,7 +219,7 @@ def plotParetoSet(best_records, records, lista, K):
         # print('\n========================================================\n\n\n')
         
         message = (
-            f"The profile of indoor temperature and indoor humidity suggested to the end-user is:\n"
+            f"The indoor temperature and indoor humidity suggested to the end-user are:\n"
             f"Average Temperature: {media_temp} °C\n"
             f"Average Humidity: {media_rh} %\n"
             "Please, adjust the indoor conditions accordingly.\n"
