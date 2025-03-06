@@ -27,7 +27,7 @@ spec:
           - name: KEYCLOACK_USERNAME
             value: "vcipollone"
           - name: KEYCLOACK_PASSWORD
-            value: 
+            value: "4K@y0<u6kVD("
           - name: KEYCLOACK_URL
             value: "https://digibuild.epu.ntua.gr/auth/realms/DIGIBUILD/protocol/openid-connect/token"
           - name: URL_DATA
