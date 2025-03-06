@@ -1,0 +1,29 @@
+# Usa un'immagine base di Python
+FROM python:3.10-slim
+
+# Imposta la directory di lavoro nell'app
+WORKDIR /app
+
+# Copia il file requirements.txt (assicurati che contenga tutte le dipendenze della tua app)
+COPY requirements.txt ./
+
+# Installa le dipendenze dell'app
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copia tutti i file nell'applicazione
+COPY . .
+
+# Setta le variabili d'ambiente (puoi modificarle in base alle tue necessità)
+ENV KEYCLOACK_USERNAME='vcipollone'
+ENV KEYCLOACK_URL='https://digibuild.epu.ntua.gr/auth/realms/DIGIBUILD/protocol/openid-connect/token'
+ENV URL_DATA='https://digibuild.epu.ntua.gr/data_sharing/federated_querying/execute_query/'
+ENV URL_OPENMETEO_FORECAST1='https://api.open-meteo.com/v1/forecast?latitude=60.17&longitude=24.94&hourly=temperature_2m&forecast=1&timezone=Europe/Helsinki'
+ENV URL_OPENMETEO_FORECAST7='https://api.open-meteo.com/v1/forecast?latitude=60.17&longitude=24.94&hourly=temperature_2m&forecast=7&timezone=Europe/Helsinki'
+ENV URL_WEATHER_HISTORY='https://api.open-meteo.com/v1/forecast?latitude=60.1695&longitude=24.9354&hourly=temperature_2m&past_days=7'
+ENV URL_FORECAST_FVH='https://digibuild.epu.ntua.gr/get_fvh_forecasts'
+
+# Espone la porta 8000 per l'applicazione FastAPI
+EXPOSE 8000
+
+# Comando per avviare l'app (FastAPI con Uvicorn)
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
