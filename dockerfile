@@ -1,5 +1,5 @@
 # Usa un'immagine base di Python
-FROM python:3.9-slim
+FROM python:3.10-slim
 
 # Imposta la directory di lavoro nell'app
 WORKDIR /app
@@ -27,4 +27,4 @@ ENV URL_FORECAST_FVH='https://digibuild.epu.ntua.gr/get_fvh_forecasts'
 EXPOSE 8000
 
 # Comando per avviare l'app (FastAPI con Uvicorn)
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
