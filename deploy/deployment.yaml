@@ -26,8 +26,6 @@ spec:
         env:
           - name: KEYCLOACK_USERNAME
             value: "vcipollone"
-          - name: KEYCLOACK_PASSWORD
-            value: 
           - name: KEYCLOACK_URL
             value: "https://digibuild.epu.ntua.gr/auth/realms/DIGIBUILD/protocol/openid-connect/token"
           - name: URL_DATA
