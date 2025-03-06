@@ -1,0 +1,1619 @@
+sensor_id,sensor_name,sensor_type
+134625,Electricity 2819184,Electricity
+134626,Heat 29249,ThermalEnergy
+134628,Cooling 80798,ThermalEnergy
+144693,102-TE09_M Indoor air temperature,IndoorTemperature
+144694,104-TE09_M Indoor air temperature,IndoorTemperature
+144696,I202TK_QIE10_M B1 Indoor air CO2 concentration,CO2
+144697,I203TK_QIE10_M Parking garage K-KRS Indoor air CO2 concentration,CO2
+144699,I204TK_QIE10_M P-Halli AK Indoor air CO2 concentration,CO2
+144701,I205TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144703,I206_QE10.1 Indoor air CO2 concentration,CO2
+144704,I206_QE10.2 Indoor air CO2 concentration,CO2
+144707,I206TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144709,I207TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144711,I208TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144713,I209TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144715,I210TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144717,I211TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144719,I212_QE10.1_M Indoor air CO2 concentration,CO2
+144720,I212_QE10.2_M Indoor air CO2 concentration,CO2
+144723,I212TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144725,I213TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144727,I214TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144729,I215_QE10.1_M Indoor air CO2 concentration,CO2
+144730,I215_QE10.2_M Indoor air CO2 concentration,CO2
+144733,I215TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144735,I216TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144737,I217TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144739,I218TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144741,I219_QE10.1_M Indoor air CO2 concentration,CO2
+144742,I219_QE10.2_M Indoor air CO2 concentration,CO2
+144745,I219TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144746,I221TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144748,I222_QE10.1_M Indoor air CO2 concentration,CO2
+144749,I222_QE10.2_M Indoor air CO2 concentration,CO2
+144752,I222TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144754,I22310.3-QE_M Indoor air CO2 concentration,CO2
+144762,I223TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144770,I226-10.5-QE_M Indoor air CO2 concentration,CO2
+144772,I226TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144774,I227TK_QIE10_M Offices 2.KRS Indoor air CO2 concentration,CO2
+144788,273TE09-C1471_M Indoor air temperature,IndoorTemperature
+144789,273TE09-C1473_M Indoor air temperature,IndoorTemperature
+144796,275TE05 Indoor air temperature,IndoorTemperature
+144801,A3101.05_QE09_M Indoor air CO2 concentration,CO2
+144803,A3101.05_TE09_M Indoor air temperature,IndoorTemperature
+144804,B3107.2_QE09_M Indoor air CO2 concentration,CO2
+144805,B3107.2_TE09_M Indoor air temperature,IndoorTemperature
+144809,C3123.6_QE09_M Indoor air CO2 concentration,CO2
+144811,C3123.6_TE09_M Indoor air temperature,IndoorTemperature
+144855,I202TC.B1119.01 Indoor air temperature,IndoorTemperature
+144856,I202TC.B1119.01 Relative humidity of indoor air,IndoorRH
+144858,I202TC.B1119.01 Indoor air CO2 concentration,CO2
+144860,I202TC.B1119.02 Indoor air temperature,IndoorTemperature
+144861,I202TC.B1119.02 Relative humidity of indoor air,IndoorRH
+144863,I202TC.B1119.02 Indoor air temperature,IndoorTemperature
+144864,I202TC.B1119.02 Indoor air CO2 concentration,CO2
+144865,I202TC.B1119.1_QE09 Indoor air CO2 concentration,CO2
+144866,I202TC.B1119.1_TE09 Indoor air temperature,IndoorTemperature
+144867,I202TC.B1119.2_QE09 Indoor air CO2 concentration,CO2
+144868,I202TC.B1119.2_TE09 Indoor air temperature,IndoorTemperature
+144870,I202TC.B1120 Indoor air temperature,IndoorTemperature
+144871,I202TC.B1120 Relative humidity of indoor air,IndoorRH
+144873,I202TC.B1120 Indoor air CO2 concentration,CO2
+144874,I202TC.B1120_QE09 Indoor air CO2 concentration,CO2
+144875,I202TC.B1120_TE09 Indoor air temperature,IndoorTemperature
+144910,I202TK_TE09_1 Indoor air temperature,IndoorTemperature
+144911,I202TK_TE09_2 Indoor air temperature,IndoorTemperature
+144912,I202TK_TE09_3 Indoor air temperature,IndoorTemperature
+144923,I203_QE092_B0120_1_M Parking hall Indoor air CO2 concentration,CO2
+144924,I203_QE092_B0120_2_M Parking hall Indoor air CO2 concentration,CO2
+144925,I203_QE092_B0120_3_M Parking hall Indoor air CO2 concentration,CO2
+144926,I203_TE09_B0120_1_M Parking hall Indoor air temperature,IndoorTemperature
+144927,I203_TE09_B0120_2_M Parking garage Indoor air temperature,IndoorTemperature
+144928,I203_TE09_B0120_3_M Parking hall Indoor air temperature,IndoorTemperature
+144974,I204_QE092_B0120_1_M Parking hall Indoor air CO2 concentration,CO2
+144975,I204_QE092_B0120_2_M Parking hall Indoor air CO2 concentration,CO2
+144976,I204_QE092_B0120_3_M Parking hall Indoor air CO2 concentration,CO2
+144977,I204_QE092_B0120_4_M Parking hall Indoor air CO2 concentration,CO2
+144978,I204_TE09_B0120_1_M Parking hall Indoor air temperature,IndoorTemperature
+144979,I204_TE09_B0120_2_M Parking hall Indoor air temperature,IndoorTemperature
+145048,I205-ME.C2120_M Relative humidity of indoor air,IndoorRH
+145051,I205-QE10.1_M 2.KRS Office Indoor air CO2 concentration,CO2
+145052,I205-QE10.2_M 2.KRS Office Indoor air CO2 concentration,CO2
+145054,I205TC.2116.1 Indoor air temperature,IndoorTemperature
+145055,I205TC.2116.1 Relative humidity of indoor air,IndoorRH
+145057,I205TC.2116.1 Indoor air CO2 concentration,CO2
+145059,I205TC.C2116.2 Indoor air temperature,IndoorTemperature
+145060,I205TC.C2116.2 Relative humidity of indoor air,IndoorRH
+145062,I205TC.C2116.2 Indoor air CO2 concentration,CO2
+145064,I205TC.C2116.3 Indoor air temperature,IndoorTemperature
+145065,I205TC.C2116.3 Relative humidity of indoor air,IndoorRH
+145067,I205TC.C2116.3 Indoor air CO2 concentration,CO2
+145069,I205TC.C2116.4 Indoor air temperature,IndoorTemperature
+145070,I205TC.C2116.4 Relative humidity of indoor air,IndoorRH
+145072,I205TC.C2116.4 Indoor air CO2 concentration,CO2
+145074,I205TC.C2116.5 Indoor air temperature,IndoorTemperature
+145075,I205TC.C2116.5 Relative humidity of indoor air,IndoorRH
+145077,I205TC.C2116.5 Indoor air CO2 concentration,CO2
+145079,I205TC.C2120 Indoor air temperature,IndoorTemperature
+145080,I205TC.C2120 Relative humidity of indoor air,IndoorRH
+145082,I205TC.C2120 Indoor air CO2 concentration,CO2
+145084,I205TC.C2375 Indoor air temperature,IndoorTemperature
+145085,I205TC.C2375 Relative humidity of indoor air,IndoorRH
+145087,I205TC.C2375 Indoor CO2 concentration,CO2
+145089,I205TC.C2378 Indoor air temperature,IndoorTemperature
+145090,I205TC.C2378 Relative humidity of indoor air,IndoorRH
+145092,I205TC.C2378 Indoor CO2 concentration,CO2
+145094,I205TC.C2379 Indoor air temperature,IndoorTemperature
+145095,I205TC.C2379 Relative humidity of indoor air,IndoorRH
+145097,I205TC.C2379 Indoor CO2 concentration,CO2
+145099,I205TC.C2380 Indoor air temperature,IndoorTemperature
+145100,I205TC.C2380 Relative humidity of indoor air,IndoorRH
+145102,I205TC.C2380 Indoor CO2 concentration,CO2
+145103,I205-TE.C2120_M Indoor air temperature,IndoorTemperature
+145143,I206.A2311 Indoor air temperature,IndoorTemperature
+145144,I206.A2311 Relative humidity of indoor air,IndoorRH
+145147,I206.A2311 Indoor air CO2 concentration,CO2
+145149,I206.A2312 Indoor air temperature,IndoorTemperature
+145150,I206.A2312 Relative humidity of indoor air,IndoorRH
+145153,I206.A2312 Indoor air CO2 concentration,CO2
+145155,I206.A2313 Indoor air temperature,IndoorTemperature
+145156,I206.A2313 Relative humidity of indoor air,IndoorRH
+145159,I206.A2313 Indoor air CO2 concentration,CO2
+145161,I206.A2316 Indoor air temperature,IndoorTemperature
+145162,I206.A2316 Relative humidity of indoor air,IndoorRH
+145165,I206.A2316 Indoor air CO2 concentration,CO2
+145226,I206-ME.10.3_M Relative humidity of indoor air,IndoorRH
+145227,I206-ME.A2107_M Relative humidity of indoor air,IndoorRH
+145233,I206TC.A2101.01 Indoor air temperature,IndoorTemperature
+145234,I206TC.A2101.01 Relative humidity of indoor air,IndoorRH
+145237,I206TC.A2101.01 Indoor air CO2 concentration,CO2
+145239,I206TC.A2101.02 Indoor air temperature,IndoorTemperature
+145240,I206TC.A2101.02 Relative humidity of indoor air,IndoorRH
+145242,I206TC.A2101.02 Indoor air temperature,IndoorTemperature
+145243,I206TC.A2101.02 Indoor air CO2 concentration,CO2
+145245,I206TC.A2101.02 Indoor air CO2 concentration,CO2
+145247,I206TC.A2101.03 Indoor air temperature,IndoorTemperature
+145248,I206TC.A2101.03 Relative humidity of indoor air,IndoorRH
+145251,I206TC.A2101.03 Indoor air CO2 concentration,CO2
+145253,I206TC.A2101.04 Indoor air temperature,IndoorTemperature
+145254,I206TC.A2101.04 Relative humidity of indoor air,IndoorRH
+145257,I206TC.A2101.04 Indoor air CO2 concentration,CO2
+145259,I206TC.A2101.05 Indoor air temperature,IndoorTemperature
+145260,I206TC.A2101.05 Relative humidity of indoor air,IndoorRH
+145263,I206TC.A2101.05 Indoor air CO2 concentration,CO2
+145265,I206TC.A2101.06 Indoor air temperature,IndoorTemperature
+145266,I206TC.A2101.06 Relative humidity of indoor air,IndoorRH
+145269,I206TC.A2101.06 Indoor air CO2 concentration,CO2
+145271,I206TC.A2101.07 Indoor air temperature,IndoorTemperature
+145272,I206TC.A2101.07 Relative humidity of indoor air,IndoorRH
+145275,I206TC.A2101.07 Indoor air CO2 concentration,CO2
+145277,I206TC.A2101.08 Indoor air temperature,IndoorTemperature
+145278,I206TC.A2101.08 Relative humidity of indoor air,IndoorRH
+145280,I206TC.A2101.08 Indoor air CO2 concentration,CO2
+145282,I206TC.A2101.08 Indoor air CO2 concentration,CO2
+145284,I206TC.A2101.09 Indoor air temperature,IndoorTemperature
+145285,I206TC.A2101.09 Relative humidity of indoor air,IndoorRH
+145288,I206TC.A2101.09 Indoor air CO2 concentration,CO2
+145290,I206TC.A2101.10 Indoor air temperature,IndoorTemperature
+145291,I206TC.A2101.10 Relative humidity of indoor air,IndoorRH
+145294,I206TC.A2101.10 Indoor air CO2 concentration,CO2
+145296,I206TC.A2101.11 Indoor air temperature,IndoorTemperature
+145297,I206TC.A2101.11 Relative humidity of indoor air,IndoorRH
+145300,I206TC.A2101.11 Indoor air CO2 concentration,CO2
+145302,I206TC.A2101.12 Indoor air temperature,IndoorTemperature
+145303,I206TC.A2101.12 Relative humidity of indoor air,IndoorRH
+145306,I206TC.A2101.12 Indoor air CO2 concentration,CO2
+145308,I206TC.A2101.13 Indoor air temperature,IndoorTemperature
+145309,I206TC.A2101.13 Relative humidity of indoor air,IndoorRH
+145311,I206TC.A2101.13 Indoor air CO2 concentration,CO2
+145313,I206TC.A2101.13 Indoor air CO2 concentration,CO2
+145315,I206TC.A2101.14 Indoor air temperature,IndoorTemperature
+145316,I206TC.A2101.14 Relative humidity of indoor air,IndoorRH
+145319,I206TC.A2101.14 Indoor air CO2 concentration,CO2
+145321,I206TC.A2101.15 Indoor air temperature,IndoorTemperature
+145322,I206TC.A2101.15 Relative humidity of indoor air,IndoorRH
+145325,I206TC.A2101.15 Indoor air CO2 concentration,CO2
+145327,I206TC.A2101.16 Indoor air temperature,IndoorTemperature
+145328,I206TC.A2101.16 Relative humidity of indoor air,IndoorRH
+145331,I206TC.A2101.16 Indoor air CO2 concentration,CO2
+145333,I206TC.A2101.17 Indoor air temperature,IndoorTemperature
+145334,I206TC.A2101.17 Relative humidity of indoor air,IndoorRH
+145337,I206TC.A2101.17 Indoor air CO2 concentration,CO2
+145339,I206TC.A2101.18 Indoor air temperature,IndoorTemperature
+145340,I206TC.A2101.18 Relative humidity of indoor air,IndoorRH
+145342,I206TC.A2101.18 Indoor air CO2 concentration,CO2
+145344,I206TC.A2101.18 Indoor air CO2 concentration,CO2
+145346,I206TC.A2101.19 Indoor air temperature,IndoorTemperature
+145347,I206TC.A2101.19 Relative humidity of indoor air,IndoorRH
+145350,I206TC.A2101.19 Indoor air CO2 concentration,CO2
+145352,I206TC.A2304 Indoor air temperature,IndoorTemperature
+145353,I206TC.A2304 Relative humidity of indoor air,IndoorRH
+145356,I206TC.A2304 Indoor air CO2 concentration,CO2
+145358,I206TC.A2305 Relative humidity of indoor air,IndoorRH
+145361,I206TC.A2305 Indoor air CO2 concentration,CO2
+145363,I206TC.A2314 Indoor air temperature,IndoorTemperature
+145364,I206TC.A2314 Relative humidity of indoor air,IndoorRH
+145367,I206TC.A2314 Indoor air CO2 concentration,CO2
+145369,I206TC.A2317 Indoor air temperature,IndoorTemperature
+145370,I206TC.A2317 Relative humidity of indoor air,IndoorRH
+145373,I206TC.A2317 Indoor CO2 concentration,CO2
+145375,I206TC.A2320 Indoor air temperature,IndoorTemperature
+145376,I206TC.A2320 Relative humidity of indoor air,IndoorRH
+145379,I206TC.A2320 Indoor air CO2 concentration,CO2
+145381,I206TC.A7101 Indoor air temperature,IndoorTemperature
+145382,I206TC.A7101 Relative humidity of indoor air,IndoorRH
+145385,I206TC.A7101 Indoor CO2 concentration,CO2
+145386,I206-TE.A2107_M Indoor air temperature,IndoorTemperature
+145387,I206-TE10.3_M Indoor air temperature,IndoorTemperature
+145388,I206-TE10.4_M Indoor air temperature,IndoorTemperature
+145554,I207TC.B2351 Indoor air temperature,IndoorTemperature
+145555,I207TC.B2351 Relative humidity of indoor air,IndoorRH
+145558,I207TC.B2351 Indoor CO2 concentration,CO2
+145560,I207TC.B2352 Indoor air temperature,IndoorTemperature
+145561,I207TC.B2352 Relative humidity of indoor air,IndoorRH
+145564,I207TC.B2352 Indoor CO2 concentration,CO2
+145566,I207TC.B2353 Indoor air temperature,IndoorTemperature
+145567,I207TC.B2353 Relative humidity of indoor air,IndoorRH
+145570,I207TC.B2353 Indoor CO2 concentration,CO2
+145572,I207TC.B2354 Indoor air temperature,IndoorTemperature
+145573,I207TC.B2354 Relative humidity of indoor air,IndoorRH
+145575,I207TC.B2354 Indoor CO2 concentration,CO2
+145577,I207TC.B2354 Indoor CO2 concentration,CO2
+145579,I207TC.B2355 Indoor air temperature,IndoorTemperature
+145580,I207TC.B2355 Relative humidity of indoor air,IndoorRH
+145583,I207TC.B2355 Indoor CO2 concentration,CO2
+145585,I207TC.B2356 Indoor air temperature,IndoorTemperature
+145586,I207TC.B2356 Relative humidity of indoor air,IndoorRH
+145589,I207TC.B2356 Indoor CO2 concentration,CO2
+145591,I207TC.B2357 Indoor air temperature,IndoorTemperature
+145592,I207TC.B2357 Relative humidity of indoor air,IndoorRH
+145595,I207TC.B2357 Indoor CO2 concentration,CO2
+145597,I207TC.B2358 Indoor air temperature,IndoorTemperature
+145598,I207TC.B2358 Relative humidity of indoor air,IndoorRH
+145601,I207TC.B2358 Indoor CO2 concentration,CO2
+145603,I207TC.B2360 Indoor air temperature,IndoorTemperature
+145604,I207TC.B2360 Relative humidity of indoor air,IndoorRH
+145607,I207TC.B2360 Indoor CO2 concentration,CO2
+145609,I207TC.B2361 Indoor air temperature,IndoorTemperature
+145610,I207TC.B2361 Relative humidity of indoor air,IndoorRH
+145613,I207TC.B2361 Indoor CO2 concentration,CO2
+145615,I207TC.B2362 Indoor air temperature,IndoorTemperature
+145616,I207TC.B2362 Relative humidity of indoor air,IndoorRH
+145619,I207TC.B2362 Indoor CO2 concentration,CO2
+145621,I207TC.B2363 Indoor air temperature,IndoorTemperature
+145622,I207TC.B2363 Relative humidity of indoor air,IndoorRH
+145625,I207TC.B2363 Indoor CO2 concentration,CO2
+145627,I207TC.B2364 Indoor air temperature,IndoorTemperature
+145628,I207TC.B2364 Relative humidity of indoor air,IndoorRH
+145631,I207TC.B2364 Indoor CO2 concentration,CO2
+145633,I207TC.B2365 Indoor air temperature,IndoorTemperature
+145634,I207TC.B2365 Relative humidity of indoor air,IndoorRH
+145637,I207TC.B2365 Indoor CO2 concentration,CO2
+145639,I207TC.B2366 Indoor air temperature,IndoorTemperature
+145640,I207TC.B2366 Relative humidity of indoor air,IndoorRH
+145643,I207TC.B2366 Indoor CO2 concentration,CO2
+145645,I207TC.B2367 Indoor air temperature,IndoorTemperature
+145646,I207TC.B2367 Relative humidity of indoor air,IndoorRH
+145648,I207TC.B2367 Indoor CO2 concentration,CO2
+145650,I207TC.B2367 Indoor CO2 concentration,CO2
+145652,I207TC.B2368 Indoor air temperature,IndoorTemperature
+145653,I207TC.B2368 Relative humidity of indoor air,IndoorRH
+145656,I207TC.B2368 Indoor CO2 concentration,CO2
+145658,I207TC.B2369 Indoor air temperature,IndoorTemperature
+145659,I207TC.B2369 Relative humidity of indoor air,IndoorRH
+145662,I207TC.B2369 Indoor CO2 concentration,CO2
+145664,I207TC.B2370 Indoor air temperature,IndoorTemperature
+145665,I207TC.B2370 Relative humidity of indoor air,IndoorRH
+145668,I207TC.B2370 Indoor CO2 concentration,CO2
+145670,I207TC.B2418 Indoor air temperature,IndoorTemperature
+145671,I207TC.B2418 Relative humidity of indoor air,IndoorRH
+145674,I207TC.B2418 Indoor CO2 concentration,CO2
+145898,I208-ME.B2120_M Relative humidity of indoor air,IndoorRH
+145901,I208-QE10.2_M 1.KRS Boimisto Indoor air CO2 concentration,CO2
+145903,I208TC.A2101 Indoor air temperature,IndoorTemperature
+145904,I208TC.A2101 Relative humidity of indoor air,IndoorRH
+145907,I208TC.A2101 Indoor CO2 concentration,CO2
+145909,I208TC.B1302 Indoor air temperature,IndoorTemperature
+145910,I208TC.B1302 Relative humidity of indoor air,IndoorRH
+145912,I208TC.B1302 Indoor air CO2 concentration,CO2
+145914,I208TC.B1302 Indoor air CO2 concentration,CO2
+145916,I208TC.B1303 Indoor air temperature,IndoorTemperature
+145917,I208TC.B1303 Relative humidity of indoor air,IndoorRH
+145920,I208TC.B1303 Indoor air CO2 concentration,CO2
+145922,I208TC.B1444 Indoor air temperature,IndoorTemperature
+145923,I208TC.B1444 Relative humidity of indoor air,IndoorRH
+145925,I208TC.B1444 Indoor air CO2 concentration,CO2
+145927,I208TC.B1444 Indoor air CO2 concentration,CO2
+145929,I208TC.B2108 Indoor air temperature,IndoorTemperature
+145930,I208TC.B2108 Relative humidity of indoor air,IndoorRH
+145933,I208TC.B2108 Indoor air CO2 concentration,CO2
+145935,I208TC.B2321 Indoor air temperature,IndoorTemperature
+145936,I208TC.B2321 Relative humidity of indoor air,IndoorRH
+145939,I208TC.B2321 Indoor CO2 concentration,CO2
+145941,I208TC.B2322 Indoor air temperature,IndoorTemperature
+145942,I208TC.B2322 Relative humidity of indoor air,IndoorRH
+145945,I208TC.B2322 Indoor air CO2 concentration,CO2
+145947,I208TC.B2324 Indoor air temperature,IndoorTemperature
+145948,I208TC.B2324 Relative humidity of indoor air,IndoorRH
+145950,I208TC.B2324 Indoor CO2 concentration,CO2
+145952,I208TC.B2324 Indoor CO2 concentration,CO2
+145954,I208TC.B2327 Indoor air temperature,IndoorTemperature
+145955,I208TC.B2327 Relative humidity of indoor air,IndoorRH
+145958,I208TC.B2327 Indoor CO2 concentration,CO2
+145960,I208TC.B2328 Indoor air temperature,IndoorTemperature
+145961,I208TC.B2328 Relative humidity of indoor air,IndoorRH
+145964,I208TC.B2328 Indoor CO2 concentration,CO2
+145966,I208TC.B2329 Indoor air temperature,IndoorTemperature
+145967,I208TC.B2329 Relative humidity of indoor air,IndoorRH
+145970,I208TC.B2329 Indoor CO2 concentration,CO2
+145972,I208TC.B2330 Indoor air temperature,IndoorTemperature
+145973,I208TC.B2330 Relative humidity of indoor air,IndoorRH
+145976,I208TC.B2330 Indoor CO2 concentration,CO2
+145978,I208TC.B2331 Indoor air temperature,IndoorTemperature
+145979,I208TC.B2331 Relative humidity of indoor air,IndoorRH
+145981,I208TC.B2331 Indoor CO2 concentration,CO2
+145983,I208TC.B2331 Indoor CO2 concentration,CO2
+145985,I208TC.B2335 Indoor air temperature,IndoorTemperature
+145986,I208TC.B2335 Relative humidity of indoor air,IndoorRH
+145989,I208TC.B2335 Indoor CO2 concentration,CO2
+145991,I208TC.B2336 Indoor air temperature,IndoorTemperature
+145992,I208TC.B2336 Relative humidity of indoor air,IndoorRH
+145995,I208TC.B2336 Indoor CO2 concentration,CO2
+145997,I208TC.B2337 Indoor air temperature,IndoorTemperature
+145998,I208TC.B2337 Relative humidity of indoor air,IndoorRH
+146001,I208TC.B2337 Indoor CO2 concentration,CO2
+146003,I208TC.B2338 Indoor air temperature,IndoorTemperature
+146004,I208TC.B2338 Relative humidity of indoor air,IndoorRH
+146007,I208TC.B2338 Indoor CO2 concentration,CO2
+146009,I208TC.B2339 Indoor air temperature,IndoorTemperature
+146010,I208TC.B2339 Relative humidity of indoor air,IndoorRH
+146013,I208TC.B2339 Indoor CO2 concentration,CO2
+146015,I208TC.B2340 Indoor air temperature,IndoorTemperature
+146016,I208TC.B2340 Relative humidity of indoor air,IndoorRH
+146019,I208TC.B2340 Indoor air CO2 concentration,CO2
+146021,I208TC.B2341 Indoor air temperature,IndoorTemperature
+146022,I208TC.B2341 Relative humidity of indoor air,IndoorRH
+146025,I208TC.B2341 Indoor CO2 concentration,CO2
+146027,I208TC.B2342 Indoor air temperature,IndoorTemperature
+146028,I208TC.B2342 Relative humidity of indoor air,IndoorRH
+146031,I208TC.B2342 Indoor CO2 concentration,CO2
+146033,I208TC.B2343 Indoor air temperature,IndoorTemperature
+146034,I208TC.B2343 Relative humidity of indoor air,IndoorRH
+146037,I208TC.B2343 Indoor CO2 concentration,CO2
+146039,I208TC.B2344 Indoor air temperature,IndoorTemperature
+146040,I208TC.B2344 Relative humidity of indoor air,IndoorRH
+146043,I208TC.B2344 Indoor CO2 concentration,CO2
+146045,I208TC.B2345 Indoor air temperature,IndoorTemperature
+146046,I208TC.B2345 Relative humidity of indoor air,IndoorRH
+146049,I208TC.B2345 Indoor CO2 concentration,CO2
+146051,I208TC.B2346 Indoor air temperature,IndoorTemperature
+146052,I208TC.B2346 Relative humidity of indoor air,IndoorRH
+146055,I208TC.B2346 Indoor CO2 concentration,CO2
+146057,I208TC.B2347 Indoor air temperature,IndoorTemperature
+146058,I208TC.B2347 Relative humidity of indoor air,IndoorRH
+146061,I208TC.B2347 Indoor CO2 concentration,CO2
+146063,I208TC.B2348 Indoor air temperature,IndoorTemperature
+146064,I208TC.B2348 Relative humidity of indoor air,IndoorRH
+146067,I208TC.B2348 Indoor CO2 concentration,CO2
+146069,I208TC.B2349 Indoor air temperature,IndoorTemperature
+146070,I208TC.B2349 Relative humidity of indoor air,IndoorRH
+146073,I208TC.B2349 Indoor CO2 concentration,CO2
+146075,I208TC.B2350 Indoor air temperature,IndoorTemperature
+146076,I208TC.B2350 Relative humidity of indoor air,IndoorRH
+146079,I208TC.B2350 Indoor CO2 concentration,CO2
+146081,I208TC.C2371 Indoor air temperature,IndoorTemperature
+146082,I208TC.C2371 Relative humidity of indoor air,IndoorRH
+146085,I208TC.C2371 Indoor CO2 concentration,CO2
+146087,I208TC.C2372 Indoor air temperature,IndoorTemperature
+146088,I208TC.C2372 Relative humidity of indoor air,IndoorRH
+146091,I208TC.C2372 Indoor CO2 concentration,CO2
+146092,I208-TE10.2_M Indoor air temperature,IndoorTemperature
+146181,I209-ME.C3123_M Relative humidity of indoor air,IndoorRH
+146188,I209-QE10.1_M 3.KRS Office Indoor air CO2 concentration,CO2
+146189,I209-QE10.2_M 3.KRS Office Indoor air CO2 concentration,CO2
+146190,I209-QE10.3_M 3.KRS Gym Indoor air CO2 concentration,CO2
+146192,I209TC.C1461 Indoor air temperature,IndoorTemperature
+146193,I209TC.C1461 Relative humidity of indoor air,IndoorRH
+146196,I209TC.C1461 Indoor CO2 concentration,CO2
+146200,I209TC.C3123.2 Indoor air temperature,IndoorTemperature
+146201,I209TC.C3123.2 Relative humidity of indoor air,IndoorRH
+146204,I209TC.C3123.2 Indoor air CO2 concentration,CO2
+146206,I209TC.C3123.3 Indoor air temperature,IndoorTemperature
+146207,I209TC.C3123.3 Relative humidity of indoor air,IndoorRH
+146210,I209TC.C3123.3 Indoor CO2 concentration,CO2
+146212,I209TC.C3123.4 Indoor air temperature,IndoorTemperature
+146213,I209TC.C3123.4 Relative humidity of indoor air,IndoorRH
+146215,I209TC.C3123.4 Indoor air CO2 concentration,CO2
+146217,I209TC.C3123.4 Indoor air CO2 concentration,CO2
+146219,I209TC.C3123.5 Indoor air temperature,IndoorTemperature
+146220,I209TC.C3123.5 Relative humidity of indoor air,IndoorRH
+146223,I209TC.C3123.5 Indoor CO2 concentration,CO2
+146225,I209TC.C3123.6 Indoor air temperature,IndoorTemperature
+146226,I209TC.C3123.6 Relative humidity of indoor air,IndoorRH
+146228,I209TC.C3123.6 Indoor air CO2 concentration,CO2
+146230,I209TC.C3123.6 Indoor air CO2 concentration,CO2
+146232,I209TC.C3123.7 Indoor air temperature,IndoorTemperature
+146233,I209TC.C3123.7 Relative humidity of indoor air,IndoorRH
+146236,I209TC.C3123.7 Indoor CO2 concentration,CO2
+146238,I209TC.C3342 Indoor air temperature,IndoorTemperature
+146239,I209TC.C3342 Relative humidity of indoor air,IndoorRH
+146241,I209TC.C3342 Indoor CO2 concentration,CO2
+146243,I209TC.C3342 Indoor CO2 concentration,CO2
+146245,I209TC.C3343 Indoor air temperature,IndoorTemperature
+146246,I209TC.C3343 Relative humidity of indoor air,IndoorRH
+146249,I209TC.C3343 Indoor CO2 concentration,CO2
+146251,I209TC.C3345 Indoor air temperature,IndoorTemperature
+146252,I209TC.C3345 Relative humidity of indoor air,IndoorRH
+146255,I209TC.C3345 Indoor CO2 concentration,CO2
+146257,I209TC.C3347 Indoor air temperature,IndoorTemperature
+146258,I209TC.C3347 Relative humidity of indoor air,IndoorRH
+146260,I209TC.C3347 Indoor CO2 concentration,CO2
+146262,I209TC.C3347 Indoor CO2 concentration,CO2
+146264,I209TC.C3349.1 Indoor air temperature,IndoorTemperature
+146265,I209TC.C3349.1 Relative humidity of indoor air,IndoorRH
+146268,I209TC.C3349.1 Indoor CO2 concentration,CO2
+146270,I209TC.C3351 Indoor air temperature,IndoorTemperature
+146271,I209TC.C3351 Relative humidity of indoor air,IndoorRH
+146274,I209TC.C3351 Indoor CO2 concentration,CO2
+146276,I209TC.C3352 Indoor air temperature,IndoorTemperature
+146277,I209TC.C3352 Relative humidity of indoor air,IndoorRH
+146280,I209TC.C3352 Indoor CO2 concentration,CO2
+146282,I209TC.C3353 Indoor air temperature,IndoorTemperature
+146283,I209TC.C3353 Relative humidity of indoor air,IndoorRH
+146286,I209TC.C3353 Indoor CO2 concentration,CO2
+146288,I209TC.C3427 Indoor air temperature,IndoorTemperature
+146289,I209TC.C3427 Relative humidity of indoor air,IndoorRH
+146292,I209TC.C3427 Indoor CO2 concentration,CO2
+146293,I209-TE.C3123_M Indoor air temperature,IndoorTemperature
+146294,I209-TE10.1_M Indoor air temperature,IndoorTemperature
+146295,I209-TE10.2_M Indoor air temperature,IndoorTemperature
+146296,I209-TE10.3_M Indoor air temperature,IndoorTemperature
+146401,I210-QE10.1_M 4.KRS Office Indoor air CO2 concentration,CO2
+146402,I210-QE10.2_M 3.KRS Office Indoor air CO2 concentration,CO2
+146404,I210TC.B3107.01 Indoor air temperature,IndoorTemperature
+146405,I210TC.B3107.01 Relative humidity of indoor air,IndoorRH
+146408,I210TC.B3107.01 Indoor air CO2 concentration,CO2
+146410,I210TC.B3107.02 Indoor air temperature,IndoorTemperature
+146411,I210TC.B3107.02 Relative humidity of indoor air,IndoorRH
+146413,I210TC.B3107.02 Indoor air CO2 concentration,CO2
+146415,I210TC.B3107.02 Indoor air CO2 concentration,CO2
+146417,I210TC.B3107.03 Indoor air temperature,IndoorTemperature
+146418,I210TC.B3107.03 Relative humidity of indoor air,IndoorRH
+146421,I210TC.B3107.03 Indoor air CO2 concentration,CO2
+146423,I210TC.B3120 Indoor air temperature,IndoorTemperature
+146424,I210TC.B3120 Relative humidity of indoor air,IndoorRH
+146427,I210TC.B3120 Indoor air CO2 concentration,CO2
+146429,I210TC.B3424 Indoor air temperature,IndoorTemperature
+146430,I210TC.B3424 Relative humidity of indoor air,IndoorRH
+146433,I210TC.B3424 Indoor CO2 concentration,CO2
+146435,I210TC.B4108.01 Indoor air temperature,IndoorTemperature
+146436,I210TC.B4108.01 Relative humidity of indoor air,IndoorRH
+146438,I210TC.B4108.01 Indoor air CO2 concentration,CO2
+146440,I210TC.B4108.01 Indoor air CO2 concentration,CO2
+146442,I210TC.B4108.02 Indoor air temperature,IndoorTemperature
+146443,I210TC.B4108.02 Relative humidity of indoor air,IndoorRH
+146446,I210TC.B4108.02 Indoor air CO2 concentration,CO2
+146448,I210TC.B4108.03 Indoor air temperature,IndoorTemperature
+146449,I210TC.B4108.03 Relative humidity of indoor air,IndoorRH
+146452,I210TC.B4108.03 Indoor air CO2 concentration,CO2
+146454,I210TC.B4118 Indoor air temperature,IndoorTemperature
+146455,I210TC.B4118 Relative humidity of indoor air,IndoorRH
+146458,I210TC.B4118 Indoor air CO2 concentration,CO2
+146460,I210TC.B4120 Indoor air temperature,IndoorTemperature
+146461,I210TC.B4120 Relative humidity of indoor air,IndoorRH
+146464,I210TC.B4120 Indoor air CO2 concentration,CO2
+146466,I210TC.B4339 Indoor air temperature,IndoorTemperature
+146467,I210TC.B4339 Relative humidity of indoor air,IndoorRH
+146470,I210TC.B4339 Indoor CO2 concentration,CO2
+146472,I210TC.B4340 Indoor air temperature,IndoorTemperature
+146473,I210TC.B4340 Relative humidity of indoor air,IndoorRH
+146476,I210TC.B4340 Indoor air CO2 concentration,CO2
+146478,I210TC.B4341 Indoor air temperature,IndoorTemperature
+146479,I210TC.B4341 Relative humidity of indoor air,IndoorRH
+146482,I210TC.B4341 Indoor CO2 concentration,CO2
+146483,I210-TE10.1_M Indoor air temperature,IndoorTemperature
+146484,I210-TE10.2_M Indoor air temperature,IndoorTemperature
+146600,I211-ME.B3107_M Relative humidity of indoor air,IndoorRH
+146603,I211-QE10.1_M 3.KRS Office Indoor air CO2 concentration,CO2
+146605,I211TC.B3107.01 Indoor air temperature,IndoorTemperature
+146606,I211TC.B3107.01 Relative humidity of indoor air,IndoorRH
+146609,I211TC.B3107.01 Indoor air CO2 concentration,CO2
+146611,I211TC.B3107.02 Indoor air temperature,IndoorTemperature
+146612,I211TC.B3107.02 Relative humidity of indoor air,IndoorRH
+146615,I211TC.B3107.02 Indoor air CO2 concentration,CO2
+146617,I211TC.B3107.03 Indoor air temperature,IndoorTemperature
+146618,I211TC.B3107.03 Relative humidity of indoor air,IndoorRH
+146621,I211TC.B3107.03 Indoor air CO2 concentration,CO2
+146623,I211TC.B3107.04 Indoor air temperature,IndoorTemperature
+146624,I211TC.B3107.04 Relative humidity of indoor air,IndoorRH
+146626,I211TC.B3107.04 Indoor air CO2 concentration,CO2
+146628,I211TC.B3107.04 Indoor air CO2 concentration,CO2
+146630,I211TC.B3107.05 Indoor air temperature,IndoorTemperature
+146631,I211TC.B3107.05 Relative humidity of indoor air,IndoorRH
+146634,I211TC.B3107.05 Indoor air CO2 concentration,CO2
+146636,I211TC.B3108 Indoor air temperature,IndoorTemperature
+146637,I211TC.B3108 Relative humidity of indoor air,IndoorRH
+146640,I211TC.B3108 Indoor air CO2 concentration,CO2
+146642,I211TC.B3110 Indoor air temperature,IndoorTemperature
+146643,I211TC.B3110 Relative humidity of indoor air,IndoorRH
+146646,I211TC.B3110 Indoor air CO2 concentration,CO2
+146648,I211TC.B3321 Indoor air temperature,IndoorTemperature
+146649,I211TC.B3321 Relative humidity of indoor air,IndoorRH
+146651,I211TC.B3321 Indoor CO2 concentration,CO2
+146653,I211TC.B3321 Indoor CO2 concentration,CO2
+146655,I211TC.B3322 Indoor air temperature,IndoorTemperature
+146656,I211TC.B3322 Relative humidity of indoor air,IndoorRH
+146659,I211TC.B3322 Indoor CO2 concentration,CO2
+146661,I211TC.B3323 Indoor air temperature,IndoorTemperature
+146662,I211TC.B3323 Relative humidity of indoor air,IndoorRH
+146665,I211TC.B3323 Indoor air CO2 concentration,CO2
+146667,I211TC.B3324 Indoor air temperature,IndoorTemperature
+146668,I211TC.B3324 Relative humidity of indoor air,IndoorRH
+146670,I211TC.B3324 Indoor air CO2 concentration,CO2
+146672,I211TC.B3324 Indoor air CO2 concentration,CO2
+146674,I211TC.B3325 Indoor air temperature,IndoorTemperature
+146675,I211TC.B3325 Relative humidity of indoor air,IndoorRH
+146678,I211TC.B3325 Indoor CO2 concentration,CO2
+146680,I211TC.B3327 Indoor air temperature,IndoorTemperature
+146681,I211TC.B3327 Relative humidity of indoor air,IndoorRH
+146684,I211TC.B3327 Indoor CO2 concentration,CO2
+146688,I211TC.B3332 Indoor air temperature,IndoorTemperature
+146689,I211TC.B3332 Relative humidity of indoor air,IndoorRH
+146692,I211TC.B3332 Indoor air CO2 concentration,CO2
+146694,I211TC.B3334 Indoor air temperature,IndoorTemperature
+146695,I211TC.B3334 Relative humidity of indoor air,IndoorRH
+146698,I211TC.B3334 Indoor CO2 concentration,CO2
+146700,I211TC.B3335 Indoor air temperature,IndoorTemperature
+146701,I211TC.B3335 Relative humidity of indoor air,IndoorRH
+146704,I211TC.B3335 Indoor CO2 concentration,CO2
+146706,I211TC.B3342 Indoor air temperature,IndoorTemperature
+146707,I211TC.B3342 Relative humidity of indoor air,IndoorRH
+146710,I211TC.B3342 Indoor air CO2 concentration,CO2
+146711,I211-TE.B3107_M Indoor air temperature,IndoorTemperature
+146712,I211-TE10.1_M Indoor air temperature,IndoorTemperature
+146833,I212-ME.A3101_M Relative humidity of indoor air,IndoorRH
+146837,I212TC.A3101.01 Indoor air temperature,IndoorTemperature
+146838,I212TC.A3101.01 Relative humidity of indoor air,IndoorRH
+146841,I212TC.A3101.01 Indoor air CO2 concentration,CO2
+146843,I212TC.A3101.02 Indoor air temperature,IndoorTemperature
+146844,I212TC.A3101.02 Relative humidity of indoor air,IndoorRH
+146846,I212TC.A3101.02 Indoor air CO2 concentration,CO2
+146848,I212TC.A3101.02 Indoor air CO2 concentration,CO2
+146850,I212TC.A3101.03 Indoor air temperature,IndoorTemperature
+146851,I212TC.A3101.03 Relative humidity of indoor air,IndoorRH
+146854,I212TC.A3101.03 Indoor air CO2 concentration,CO2
+146856,I212TC.A3101.04 Indoor air temperature,IndoorTemperature
+146857,I212TC.A3101.04 Relative humidity of indoor air,IndoorRH
+146860,I212TC.A3101.04 Indoor air CO2 concentration,CO2
+146862,I212TC.A3101.05 Indoor air temperature,IndoorTemperature
+146863,I212TC.A3101.05 Relative humidity of indoor air,IndoorRH
+146866,I212TC.A3101.05 Indoor air CO2 concentration,CO2
+146868,I212TC.A3101.06 Indoor air temperature,IndoorTemperature
+146869,I212TC.A3101.06 Relative humidity of indoor air,IndoorRH
+146872,I212TC.A3101.06 Indoor air CO2 concentration,CO2
+146874,I212TC.A3101.07 Indoor air temperature,IndoorTemperature
+146875,I212TC.A3101.07 Relative humidity of indoor air,IndoorRH
+146878,I212TC.A3101.07 Indoor air CO2 concentration,CO2
+146880,I212TC.A3101.08 Indoor air temperature,IndoorTemperature
+146881,I212TC.A3101.08 Relative humidity of indoor air,IndoorRH
+146884,I212TC.A3101.08 Indoor air CO2 concentration,CO2
+146886,I212TC.A3101.09 Indoor air temperature,IndoorTemperature
+146887,I212TC.A3101.09 Relative humidity of indoor air,IndoorRH
+146890,I212TC.A3101.09 Indoor air CO2 concentration,CO2
+146892,I212TC.A3101.10 Indoor air temperature,IndoorTemperature
+146893,I212TC.A3101.10 Relative humidity of indoor air,IndoorRH
+146896,I212TC.A3101.10 Indoor air CO2 concentration,CO2
+146898,I212TC.A3101.11 Indoor air temperature,IndoorTemperature
+146899,I212TC.A3101.11 Relative humidity of indoor air,IndoorRH
+146902,I212TC.A3101.11 Indoor air CO2 concentration,CO2
+146904,I212TC.A3101.12 Indoor air temperature,IndoorTemperature
+146905,I212TC.A3101.12 Relative humidity of indoor air,IndoorRH
+146908,I212TC.A3101.12 Indoor air CO2 concentration,CO2
+146910,I212TC.A3101.13 Indoor air temperature,IndoorTemperature
+146911,I212TC.A3101.13 Relative humidity of indoor air,IndoorRH
+146914,I212TC.A3101.13 Indoor air CO2 concentration,CO2
+146916,I212TC.A3101.14 Indoor air temperature,IndoorTemperature
+146917,I212TC.A3101.14 Relative humidity of indoor air,IndoorRH
+146920,I212TC.A3101.14 Indoor air CO2 concentration,CO2
+146922,I212TC.A3101.15 Indoor air temperature,IndoorTemperature
+146923,I212TC.A3101.15 Relative humidity of indoor air,IndoorRH
+146925,I212TC.A3101.15 Indoor air CO2 concentration,CO2
+146927,I212TC.A3101.15 Indoor air CO2 concentration,CO2
+146929,I212TC.A3101.16 Indoor air temperature,IndoorTemperature
+146930,I212TC.A3101.16 Relative humidity of indoor air,IndoorRH
+148166,I217TC.B5336 Indoor air temperature,IndoorTemperature
+146933,I212TC.A3101.16 Indoor air CO2 concentration,CO2
+146935,I212TC.A3101.17 Indoor air temperature,IndoorTemperature
+146936,I212TC.A3101.17 Relative humidity of indoor air,IndoorRH
+146939,I212TC.A3101.17 Indoor air CO2 concentration,CO2
+146941,I212TC.A3101.18 Indoor air temperature,IndoorTemperature
+146942,I212TC.A3101.18 Relative humidity of indoor air,IndoorRH
+146944,I212TC.A3101.18 Indoor air CO2 concentration,CO2
+146946,I212TC.A3101.18 Indoor air CO2 concentration,CO2
+146948,I212TC.A3101.19 Indoor air temperature,IndoorTemperature
+146949,I212TC.A3101.19 Relative humidity of indoor air,IndoorRH
+146952,I212TC.A3101.19 Indoor air CO2 concentration,CO2
+146954,I212TC.A3101.20 Indoor air temperature,IndoorTemperature
+146955,I212TC.A3101.20 Relative humidity of indoor air,IndoorRH
+146958,I212TC.A3101.20 Indoor air CO2 concentration,CO2
+146960,I212TC.A3101.21 Indoor air temperature,IndoorTemperature
+146961,I212TC.A3101.21 Relative humidity of indoor air,IndoorRH
+146964,I212TC.A3101.21 Indoor air CO2 concentration,CO2
+146966,I212TC.A3101.22 Indoor air temperature,IndoorTemperature
+146967,I212TC.A3101.22 Relative humidity of indoor air,IndoorRH
+146970,I212TC.A3101.22 Indoor air CO2 concentration,CO2
+146972,I212TC.A3107 Indoor air temperature,IndoorTemperature
+146973,I212TC.A3107 Relative humidity of indoor air,IndoorRH
+146975,I212TC.A3107 Indoor air CO2 concentration,CO2
+146977,I212TC.A3107 Indoor air CO2 concentration,CO2
+146981,I212TC.A3301 Indoor air temperature,IndoorTemperature
+146982,I212TC.A3301 Relative humidity of indoor air,IndoorRH
+146985,I212TC.A3301 Indoor air CO2 concentration,CO2
+146987,I212TC.A3302 Indoor air temperature,IndoorTemperature
+146988,I212TC.A3302 Relative humidity of indoor air,IndoorRH
+146991,I212TC.A3302 Indoor air CO2 concentration,CO2
+146993,I212TC.A3303 Indoor air temperature,IndoorTemperature
+146994,I212TC.A3303 Relative humidity of indoor air,IndoorRH
+146997,I212TC.A3303 Indoor air CO2 concentration,CO2
+146999,I212TC.A3304 Indoor air temperature,IndoorTemperature
+147000,I212TC.A3304 Relative humidity of indoor air,IndoorRH
+147003,I212TC.A3304 Indoor air CO2 concentration,CO2
+147005,I212TC.A3305 Indoor air temperature,IndoorTemperature
+147006,I212TC.A3305 Relative humidity of indoor air,IndoorRH
+147009,I212TC.A3305 Indoor air CO2 concentration,CO2
+147011,I212TC.A3306 Indoor air temperature,IndoorTemperature
+147012,I212TC.A3306 Relative humidity of indoor air,IndoorRH
+147015,I212TC.A3306 Indoor air CO2 concentration,CO2
+147017,I212TC.A3307 Indoor air temperature,IndoorTemperature
+147018,I212TC.A3307 Relative humidity of indoor air,IndoorRH
+147021,I212TC.A3307 Indoor air CO2 concentration,CO2
+147023,I212TC.A3314 Indoor air temperature,IndoorTemperature
+147024,I212TC.A3314 Relative humidity of indoor air,IndoorRH
+147027,I212TC.A3314 Indoor air CO2 concentration,CO2
+147029,I212TC.A3316 Indoor air temperature,IndoorTemperature
+147030,I212TC.A3316 Relative humidity of indoor air,IndoorRH
+147033,I212TC.A3316 Indoor air CO2 concentration,CO2
+147035,I212TC.A3317 Indoor air temperature,IndoorTemperature
+147036,I212TC.A3317 Relative humidity of indoor air,IndoorRH
+147039,I212TC.A3317 Indoor air CO2 concentration,CO2
+147040,I212-TE.A3101_M Indoor air temperature,IndoorTemperature
+147133,I213-ME.C4123_M Relative humidity of indoor air,IndoorRH
+147136,I213-QE10.1_M 4.KRS Office Indoor air CO2 concentration,CO2
+147137,I213-QE10.2_M 4.KRS Office Indoor air CO2 concentration,CO2
+147138,I213-QE10.3_M 4.KRS Gym Indoor air CO2 concentration,CO2
+147139,I213-QE10.4_M 4.KRS Office Indoor air CO2 concentration,CO2
+147141,I213TC.4123.2 Indoor air temperature,IndoorTemperature
+147142,I213TC.4123.2 Relative humidity of indoor air,IndoorRH
+147144,I213TC.4123.2 Indoor air CO2 concentration,CO2
+147146,I213TC.4123.2 Indoor air CO2 concentration,CO2
+147148,I213TC.C4123.3 Indoor air temperature,IndoorTemperature
+147149,I213TC.C4123.3 Relative humidity of indoor air,IndoorRH
+147151,I213TC.C4123.3 Indoor air CO2 concentration,CO2
+147153,I213TC.C4123.3 Indoor air CO2 concentration,CO2
+147155,I213TC.C4123.4 Indoor air temperature,IndoorTemperature
+147156,I213TC.C4123.4 Relative humidity of indoor air,IndoorRH
+147159,I213TC.C4123.4 Indoor air CO2 concentration,CO2
+147161,I213TC.C4123.5 Indoor air temperature,IndoorTemperature
+147162,I213TC.C4123.5 Relative humidity of indoor air,IndoorRH
+147165,I213TC.C4123.5 Indoor air CO2 concentration,CO2
+147167,I213TC.C4124 Indoor air temperature,IndoorTemperature
+147168,I213TC.C4124 Relative humidity of indoor air,IndoorRH
+147170,I213TC.C4124 Indoor air CO2 concentration,CO2
+147172,I213TC.C4124 Indoor air CO2 concentration,CO2
+147174,I213TC.C4126 Indoor air temperature,IndoorTemperature
+147175,I213TC.C4126 Relative humidity of indoor air,IndoorRH
+147177,I213TC.C4126 Indoor CO2 concentration,CO2
+147179,I213TC.C4126 Indoor CO2 concentration,CO2
+147181,I213TC.C4344 Indoor air temperature,IndoorTemperature
+147182,I213TC.C4344 Relative humidity of indoor air,IndoorRH
+147185,I213TC.C4344 Indoor air CO2 concentration,CO2
+147187,I213TC.C4345 Indoor air temperature,IndoorTemperature
+147188,I213TC.C4345 Relative humidity of indoor air,IndoorRH
+147191,I213TC.C4345 Indoor CO2 concentration,CO2
+147193,I213TC.C4349 Indoor air temperature,IndoorTemperature
+147194,I213TC.C4349 Relative humidity of indoor air,IndoorRH
+147197,I213TC.C4349 Indoor CO2 concentration,CO2
+147199,I213TC.C4350 Indoor air temperature,IndoorTemperature
+147200,I213TC.C4350 Relative humidity of indoor air,IndoorRH
+147203,I213TC.C4350 Indoor air CO2 concentration,CO2
+147205,I213TC.C4351 Indoor air temperature,IndoorTemperature
+147206,I213TC.C4351 Relative humidity of indoor air,IndoorRH
+147209,I213TC.C4351 Indoor CO2 concentration,CO2
+147211,I213TC.C4355 Indoor air temperature,IndoorTemperature
+147214,I213TC.C4427 Indoor air temperature,IndoorTemperature
+147215,I213TC.C4427 Relative humidity of indoor air,IndoorRH
+147218,I213TC.C4427 Indoor CO2 concentration,CO2
+147219,I213-TE.C4123_M Indoor air temperature,IndoorTemperature
+147220,I213-TE10.1_M Indoor air temperature,IndoorTemperature
+147221,I213-TE10.2_M Indoor air temperature,IndoorTemperature
+147222,I213-TE10.3_M Indoor air temperature,IndoorTemperature
+147223,I213-TE10.4_M Indoor air temperature,IndoorTemperature
+147358,I214-ME.B4109_M Relative humidity of indoor air,IndoorRH
+147361,I214-QE10.1_M 4.KRS Office Indoor air CO2 concentration,CO2
+147363,I214TC.B4108.01 Indoor air temperature,IndoorTemperature
+147364,I214TC.B4108.01 Relative humidity of indoor air,IndoorRH
+147367,I214TC.B4108.01 Indoor air CO2 concentration,CO2
+147369,I214TC.B4108.02 Indoor air temperature,IndoorTemperature
+147370,I214TC.B4108.02 Relative humidity of indoor air,IndoorRH
+147372,I214TC.B4108.02 Indoor air CO2 concentration,CO2
+147374,I214TC.B4108.02 Indoor air CO2 concentration,CO2
+147376,I214TC.B4109 Indoor air temperature,IndoorTemperature
+147377,I214TC.B4109 Relative humidity of indoor air,IndoorRH
+147380,I214TC.B4109 Indoor air CO2 concentration,CO2
+147382,I214TC.B4112 Indoor air temperature,IndoorTemperature
+147383,I214TC.B4112 Relative humidity of indoor air,IndoorRH
+147386,I214TC.B4112 Indoor air CO2 concentration,CO2
+147388,I214TC.B4321 Indoor air temperature,IndoorTemperature
+147389,I214TC.B4321 Relative humidity of indoor air,IndoorRH
+147391,I214TC.B4321 Indoor CO2 concentration,CO2
+147393,I214TC.B4321 Indoor CO2 concentration,CO2
+147395,I214TC.B4322 Indoor air temperature,IndoorTemperature
+147396,I214TC.B4322 Relative humidity of indoor air,IndoorRH
+147399,I214TC.B4322 Indoor air CO2 concentration,CO2
+147401,I214TC.B4323 Indoor air temperature,IndoorTemperature
+147402,I214TC.B4323 Relative humidity of indoor air,IndoorRH
+147405,I214TC.B4323 Indoor CO2 concentration,CO2
+147407,I214TC.B4324 Indoor air temperature,IndoorTemperature
+147408,I214TC.B4324 Relative humidity of indoor air,IndoorRH
+147411,I214TC.B4324 Indoor air CO2 concentration,CO2
+147413,I214TC.B4325 Indoor air temperature,IndoorTemperature
+147414,I214TC.B4325 Relative humidity of indoor air,IndoorRH
+147416,I214TC.B4325 Indoor CO2 concentration,CO2
+147418,I214TC.B4325 Indoor CO2 concentration,CO2
+147420,I214TC.B4326 Indoor air temperature,IndoorTemperature
+147421,I214TC.B4326 Relative humidity of indoor air,IndoorRH
+147424,I214TC.B4326 Indoor air CO2 concentration,CO2
+147426,I214TC.B4327 Indoor air temperature,IndoorTemperature
+147427,I214TC.B4327 Relative humidity of indoor air,IndoorRH
+147430,I214TC.B4327 Indoor air CO2 concentration,CO2
+147432,I214TC.B4328 Indoor air temperature,IndoorTemperature
+147433,I214TC.B4328 Relative humidity of indoor air,IndoorRH
+147436,I214TC.B4328 Indoor air CO2 concentration,CO2
+147438,I214TC.B4329 Indoor air temperature,IndoorTemperature
+147439,I214TC.B4329 Relative humidity of indoor air,IndoorRH
+147442,I214TC.B4329 Indoor air CO2 concentration,CO2
+147444,I214TC.B4333 Indoor air temperature,IndoorTemperature
+147445,I214TC.B4333 Relative humidity of indoor air,IndoorRH
+147448,I214TC.B4333 Indoor CO2 concentration,CO2
+147450,I214TC.B4335 Indoor air temperature,IndoorTemperature
+147451,I214TC.B4335 Relative humidity of indoor air,IndoorRH
+147454,I214TC.B4335 Indoor air CO2 concentration,CO2
+147456,I214TC.B4336 Indoor air temperature,IndoorTemperature
+147457,I214TC.B4336 Relative humidity of indoor air,IndoorRH
+147460,I214TC.B4336 Indoor air CO2 concentration,CO2
+147462,I214TC.B4343 Indoor air temperature,IndoorTemperature
+147463,I214TC.B4343 Relative humidity of indoor air,IndoorRH
+147466,I214TC.B4343 Indoor air CO2 concentration,CO2
+147468,I214TC.B5339 Indoor air temperature,IndoorTemperature
+147469,I214TC.B5339 Relative humidity of indoor air,IndoorRH
+147471,I214TC.B5339 Indoor CO2 concentration,CO2
+147473,I214TC.B5339 Indoor CO2 concentration,CO2
+147474,I214-TE10.1_M Indoor air temperature,IndoorTemperature
+147601,I215-ME.A4101_M Relative humidity of indoor air,IndoorRH
+147605,I215TC.A4101.01 Indoor air temperature,IndoorTemperature
+147606,I215TC.A4101.01 Relative humidity of indoor air,IndoorRH
+147609,I215TC.A4101.01 Indoor air CO2 concentration,CO2
+147611,I215TC.A4101.02 Indoor air temperature,IndoorTemperature
+147612,I215TC.A4101.02 Relative humidity of indoor air,IndoorRH
+147614,I215TC.A4101.02 Indoor air CO2 concentration,CO2
+147616,I215TC.A4101.02 Indoor air CO2 concentration,CO2
+147618,I215TC.A4101.03 Indoor air temperature,IndoorTemperature
+147619,I215TC.A4101.03 Relative humidity of indoor air,IndoorRH
+147622,I215TC.A4101.03 Indoor air CO2 concentration,CO2
+147624,I215TC.A4101.04 Indoor air temperature,IndoorTemperature
+147625,I215TC.A4101.04 Relative humidity of indoor air,IndoorRH
+147628,I215TC.A4101.04 Indoor air CO2 concentration,CO2
+147630,I215TC.A4101.05 Indoor air temperature,IndoorTemperature
+147631,I215TC.A4101.05 Relative humidity of indoor air,IndoorRH
+147634,I215TC.A4101.05 Indoor air CO2 concentration,CO2
+147636,I215TC.A4101.06 Indoor air temperature,IndoorTemperature
+147637,I215TC.A4101.06 Relative humidity of indoor air,IndoorRH
+147640,I215TC.A4101.06 Indoor air CO2 concentration,CO2
+147642,I215TC.A4101.07 Indoor air temperature,IndoorTemperature
+147643,I215TC.A4101.07 Relative humidity of indoor air,IndoorRH
+147646,I215TC.A4101.07 Indoor air CO2 concentration,CO2
+147648,I215TC.A4101.08 Indoor air temperature,IndoorTemperature
+147649,I215TC.A4101.08 Relative humidity of indoor air,IndoorRH
+147651,I215TC.A4101.08 Indoor air CO2 concentration,CO2
+147653,I215TC.A4101.08 Indoor air CO2 concentration,CO2
+147655,I215TC.A4101.09 Indoor air temperature,IndoorTemperature
+147656,I215TC.A4101.09 Relative humidity of indoor air,IndoorRH
+147659,I215TC.A4101.09 Indoor air CO2 concentration,CO2
+147661,I215TC.A4101.10 Indoor air temperature,IndoorTemperature
+147662,I215TC.A4101.10 Relative humidity of indoor air,IndoorRH
+147665,I215TC.A4101.10 Indoor air CO2 concentration,CO2
+147667,I215TC.A4101.11 Indoor air temperature,IndoorTemperature
+147668,I215TC.A4101.11 Relative humidity of indoor air,IndoorRH
+147671,I215TC.A4101.11 Indoor air CO2 concentration,CO2
+147673,I215TC.A4101.12 Indoor air temperature,IndoorTemperature
+147674,I215TC.A4101.12 Relative humidity of indoor air,IndoorRH
+147677,I215TC.A4101.12 Indoor air CO2 concentration,CO2
+147679,I215TC.A4101.13 Indoor air temperature,IndoorTemperature
+147680,I215TC.A4101.13 Relative humidity of indoor air,IndoorRH
+147683,I215TC.A4101.13 Indoor air CO2 concentration,CO2
+147685,I215TC.A4101.15 Indoor air temperature,IndoorTemperature
+147686,I215TC.A4101.15 Relative humidity of indoor air,IndoorRH
+147688,I215TC.A4101.15 Indoor air CO2 concentration,CO2
+147690,I215TC.A4101.15 Indoor air CO2 concentration,CO2
+147692,I215TC.A4101.16 Indoor air temperature,IndoorTemperature
+147693,I215TC.A4101.16 Relative humidity of indoor air,IndoorRH
+147696,I215TC.A4101.16 Indoor air CO2 concentration,CO2
+147698,I215TC.A4101.17 Indoor air temperature,IndoorTemperature
+147699,I215TC.A4101.17 Relative humidity of indoor air,IndoorRH
+147702,I215TC.A4101.17 Indoor air CO2 concentration,CO2
+147704,I215TC.A4101.18 Indoor air temperature,IndoorTemperature
+147705,I215TC.A4101.18 Relative humidity of indoor air,IndoorRH
+147708,I215TC.A4101.18 Indoor air CO2 concentration,CO2
+147710,I215TC.A4101.19 Indoor air temperature,IndoorTemperature
+147711,I215TC.A4101.19 Relative humidity of indoor air,IndoorRH
+147714,I215TC.A4101.19 Indoor air CO2 concentration,CO2
+147716,I215TC.A4101.20 Indoor air temperature,IndoorTemperature
+147717,I215TC.A4101.20 Relative humidity of indoor air,IndoorRH
+147720,I215TC.A4101.20 Indoor air CO2 concentration,CO2
+147722,I215TC.A4101.21 Indoor air temperature,IndoorTemperature
+147723,I215TC.A4101.21 Relative humidity of indoor air,IndoorRH
+147725,I215TC.A4101.21 Indoor CO2 concentration,CO2
+147727,I215TC.A4101.21 Indoor CO2 concentration,CO2
+147729,I215TC.A4101.22 Indoor air temperature,IndoorTemperature
+147730,I215TC.A4101.22 Relative humidity of indoor air,IndoorRH
+147733,I215TC.A4101.22 Indoor air CO2 concentration,CO2
+147735,I215TC.A4101.23 Indoor air temperature,IndoorTemperature
+147736,I215TC.A4101.23 Relative humidity of indoor air,IndoorRH
+147739,I215TC.A4101.23 Indoor air CO2 concentration,CO2
+147741,I215TC.A4302 Indoor air temperature,IndoorTemperature
+147742,I215TC.A4302 Relative humidity of indoor air,IndoorRH
+147745,I215TC.A4302 Indoor air CO2 concentration,CO2
+147747,I215TC.A4303 Indoor air temperature,IndoorTemperature
+147748,I215TC.A4303 Relative humidity of indoor air,IndoorRH
+147751,I215TC.A4303 Indoor air CO2 concentration,CO2
+147753,I215TC.A4304 Indoor air temperature,IndoorTemperature
+147754,I215TC.A4304 Relative humidity of indoor air,IndoorRH
+147757,I215TC.A4304 Indoor air CO2 concentration,CO2
+147759,I215TC.A4305 Indoor air temperature,IndoorTemperature
+147760,I215TC.A4305 Relative humidity of indoor air,IndoorRH
+147763,I215TC.A4305 Indoor CO2 concentration,CO2
+147765,I215TC.A4306 Indoor air temperature,IndoorTemperature
+147766,I215TC.A4306 Relative humidity of indoor air,IndoorRH
+147769,I215TC.A4306 Indoor air CO2 concentration,CO2
+147771,I215TC.A4307 Indoor air temperature,IndoorTemperature
+147772,I215TC.A4307 Relative humidity of indoor air,IndoorRH
+147775,I215TC.A4307 Indoor air CO2 concentration,CO2
+147777,I215TC.A4308 Indoor air temperature,IndoorTemperature
+147778,I215TC.A4308 Relative humidity of indoor air,IndoorRH
+147781,I215TC.A4308 Indoor air CO2 concentration,CO2
+147783,I215TC.A4310 Indoor air temperature,IndoorTemperature
+147784,I215TC.A4310 Relative humidity of indoor air,IndoorRH
+147787,I215TC.A4310 Indoor air CO2 concentration,CO2
+147789,I215TC.A4311 Indoor air temperature,IndoorTemperature
+147790,I215TC.A4311 Relative humidity of indoor air,IndoorRH
+147793,I215TC.A4311 Indoor CO2 concentration,CO2
+147795,I215TC.A4314 Indoor air temperature,IndoorTemperature
+147796,I215TC.A4314 Relative humidity of indoor air,IndoorRH
+147799,I215TC.A4314 Indoor air CO2 concentration,CO2
+147801,I215TC.A4315 Indoor air temperature,IndoorTemperature
+147802,I215TC.A4315 Relative humidity of indoor air,IndoorRH
+147805,I215TC.A4315 Indoor CO2 concentration,CO2
+147807,I215TC.A4317 Indoor air temperature,IndoorTemperature
+147808,I215TC.A4317 Relative humidity of indoor air,IndoorRH
+147811,I215TC.A4317 Indoor CO2 concentration,CO2
+147812,I215-TE.A4101_M Indoor air temperature,IndoorTemperature
+147923,I216-ME.C5123_M Relative humidity of indoor air,IndoorRH
+147924,I216-ME.C6339_M Relative humidity of indoor air,IndoorRH
+147929,I216-QE10.1_M 6.KRS Office Indoor air CO2 concentration,CO2
+147930,I216-QE10.2_M 6.KRS Office Indoor air CO2 concentration,CO2
+147931,I216-QE10.3_M 5.KRS Office Indoor air CO2 concentration,CO2
+147932,I216-QE10.4_M 4.KRS Office Indoor air CO2 concentration,CO2
+147933,I216-QE10.5_M 5.KRS Office Indoor air CO2 concentration,CO2
+147934,I216-QE10.6_M 6.KRS Office Indoor air CO2 concentration,CO2
+147935,I216TC.C5123 Indoor air temperature,IndoorTemperature
+147936,I216TC.C5123 Relative humidity of indoor air,IndoorRH
+147937,I216TC.C5123 Indoor CO2 concentration,CO2
+147938,I216TC.C5123.1 Indoor air temperature,IndoorTemperature
+147939,I216TC.C5123.1 Relative humidity of indoor air,IndoorRH
+147940,I216TC.C5123.1 Indoor CO2 concentration,CO2
+147941,I216TC.C5123.2 Indoor air temperature,IndoorTemperature
+147942,I216TC.C5123.2 Relative humidity of indoor air,IndoorRH
+147943,I216TC.C5123.2 Indoor air CO2 concentration,CO2
+147944,I216TC.C5123.2 Indoor air CO2 concentration,CO2
+147945,I216TC.C5123.3 Indoor air temperature,IndoorTemperature
+147946,I216TC.C5123.3 Relative humidity of indoor air,IndoorRH
+147947,I216TC.C5123.3 Indoor air CO2 concentration,CO2
+147948,I216TC.C5123.5 Indoor air temperature,IndoorTemperature
+147949,I216TC.C5123.5 Relative humidity of indoor air,IndoorRH
+147950,I216TC.C5123.5 Indoor CO2 concentration,CO2
+147951,I216TC.C5123.5 Indoor CO2 concentration,CO2
+150242,JKB2.3 - Total electricity consumption,Electricity
+147952,I216TC.C5339.1 Indoor air temperature,IndoorTemperature
+147953,I216TC.C5339.1 Relative humidity of indoor air,IndoorRH
+147954,I216TC.C5339.1 Indoor CO2 concentration,CO2
+147955,I216TC.C5339.1 Indoor CO2 concentration,CO2
+147956,I216TC.C5339.3 Indoor air temperature,IndoorTemperature
+147957,I216TC.C5339.3 Relative humidity of indoor air,IndoorRH
+147958,I216TC.C5339.3 Indoor air CO2 concentration,CO2
+147959,I216TC.C5341 Indoor air temperature,IndoorTemperature
+147960,I216TC.C5341 Relative humidity of indoor air,IndoorRH
+147961,I216TC.C5341 Indoor CO2 concentration,CO2
+147962,I216TC.C5342 Indoor air temperature,IndoorTemperature
+147963,I216TC.C5342 Relative humidity of indoor air,IndoorRH
+147964,I216TC.C5342 Indoor CO2 concentration,CO2
+147965,I216TC.C5345 Indoor air temperature,IndoorTemperature
+147966,I216TC.C5345 Relative humidity of indoor air,IndoorRH
+147967,I216TC.C5345 Indoor CO2 concentration,CO2
+147968,I216TC.C5345 Indoor CO2 concentration,CO2
+147969,I216TC.C6122.1 Indoor air temperature,IndoorTemperature
+147970,I216TC.C6122.1 Relative humidity of indoor air,IndoorRH
+147971,I216TC.C6122.1 Indoor CO2 concentration,CO2
+147972,I216TC.C6122.1 Indoor CO2 concentration,CO2
+147973,I216TC.C6122.2 Indoor air temperature,IndoorTemperature
+147974,I216TC.C6122.2 Relative humidity of indoor air,IndoorRH
+147975,I216TC.C6122.2 Indoor air CO2 concentration,CO2
+147976,I216TC.C6122.3 Indoor air temperature,IndoorTemperature
+147977,I216TC.C6122.3 Relative humidity of indoor air,IndoorRH
+147978,I216TC.C6122.3 Indoor CO2 concentration,CO2
+147979,I216TC.C6122.4 Indoor air temperature,IndoorTemperature
+147980,I216TC.C6122.4 Relative humidity of indoor air,IndoorRH
+147981,I216TC.C6122.4 Indoor air CO2 concentration,CO2
+147982,I216TC.C6122.5 Indoor air temperature,IndoorTemperature
+147983,I216TC.C6122.5 Relative humidity of indoor air,IndoorRH
+147984,I216TC.C6122.5 Indoor air CO2 concentration,CO2
+147985,I216TC.C6122.5 Indoor air CO2 concentration,CO2
+147986,I216TC.C6339.1 Indoor air temperature,IndoorTemperature
+147987,I216TC.C6339.1 Relative humidity of indoor air,IndoorRH
+147988,I216TC.C6339.1 Indoor CO2 concentration,CO2
+147989,I216TC.C6339.2 Indoor air temperature,IndoorTemperature
+147990,I216TC.C6339.2 Relative humidity of indoor air,IndoorRH
+147991,I216TC.C6339.2 Indoor CO2 concentration,CO2
+147992,I216TC.C6339.2 Indoor CO2 concentration,CO2
+147993,I216TC.C6341 Indoor air temperature,IndoorTemperature
+147994,I216TC.C6341 Relative humidity of indoor air,IndoorRH
+147995,I216TC.C6341 Indoor CO2 concentration,CO2
+147996,I216TC.C6342 Indoor air temperature,IndoorTemperature
+147997,I216TC.C6342 Relative humidity of indoor air,IndoorRH
+147998,I216TC.C6342 Indoor CO2 concentration,CO2
+147999,I216TC.C6346 Indoor air temperature,IndoorTemperature
+148000,I216TC.C6346 Relative humidity of indoor air,IndoorRH
+148001,I216TC.C6346 Indoor CO2 concentration,CO2
+148002,I216TC.C6346 Indoor CO2 concentration,CO2
+148003,I216-TE10.1_M Indoor air temperature,IndoorTemperature
+148004,I216-TE10.2_M Indoor air temperature,IndoorTemperature
+148005,I216-TE10.3_M Indoor air temperature,IndoorTemperature
+148006,I216-TE10.4_M Indoor air temperature,IndoorTemperature
+148007,I216-TE10.5_M Indoor air temperature,IndoorTemperature
+148008,I216-TE10.6_M Indoor air temperature,IndoorTemperature
+148132,I217-QE10.1_M 6.KRS Office Indoor air CO2 concentration,CO2
+148133,I217-QE10.2_M 5.KRS Office Indoor air CO2 concentration,CO2
+148135,I217TC.B5108.01 Indoor air temperature,IndoorTemperature
+148136,I217TC.B5108.01 Relative humidity of indoor air,IndoorRH
+148139,I217TC.B5108.01 Indoor air CO2 concentration,CO2
+148141,I217TC.B5108.02 Indoor air temperature,IndoorTemperature
+148142,I217TC.B5108.02 Relative humidity of indoor air,IndoorRH
+148144,I217TC.B5108.02 Indoor air CO2 concentration,CO2
+148146,I217TC.B5108.02 Indoor air CO2 concentration,CO2
+148148,I217TC.B5118 Indoor air temperature,IndoorTemperature
+148149,I217TC.B5118 Relative humidity of indoor air,IndoorRH
+148152,I217TC.B5118 Indoor air CO2 concentration,CO2
+148154,I217TC.B5121 Indoor air temperature,IndoorTemperature
+148155,I217TC.B5121 Relative humidity of indoor air,IndoorRH
+148158,I217TC.B5121 Indoor CO2 concentration,CO2
+148160,I217TC.B5335 Indoor air temperature,IndoorTemperature
+148161,I217TC.B5335 Relative humidity of indoor air,IndoorRH
+148164,I217TC.B5335 Indoor CO2 concentration,CO2
+148167,I217TC.B5336 Relative humidity of indoor air,IndoorRH
+148170,I217TC.B5336 Indoor CO2 concentration,CO2
+148172,I217TC.B5337 Indoor air temperature,IndoorTemperature
+148173,I217TC.B5337 Relative humidity of indoor air,IndoorRH
+148176,I217TC.B5337 Indoor CO2 concentration,CO2
+148178,I217TC.B6117 Indoor air temperature,IndoorTemperature
+148179,I217TC.B6117 Relative humidity of indoor air,IndoorRH
+148182,I217TC.B6117 Indoor air CO2 concentration,CO2
+148184,I217TC.B6120 Indoor air temperature,IndoorTemperature
+148185,I217TC.B6120 Relative humidity of indoor air,IndoorRH
+148188,I217TC.B6120 Indoor air CO2 concentration,CO2
+148190,I217TC.B6335 Indoor air temperature,IndoorTemperature
+148191,I217TC.B6335 Relative humidity of indoor air,IndoorRH
+148194,I217TC.B6335 Indoor CO2 concentration,CO2
+148196,I217TC.B6336 Indoor air temperature,IndoorTemperature
+148197,I217TC.B6336 Relative humidity of indoor air,IndoorRH
+148200,I217TC.B6336 Indoor CO2 concentration,CO2
+148202,I217TC.B6337 Indoor air temperature,IndoorTemperature
+148203,I217TC.B6337 Relative humidity of indoor air,IndoorRH
+148206,I217TC.B6337 Indoor CO2 concentration,CO2
+148207,I217-TE10.1_M Indoor air temperature,IndoorTemperature
+148208,I217-TE10.2_M Indoor air temperature,IndoorTemperature
+148341,I218-ME.B5108_M Relative humidity of indoor air,IndoorRH
+148344,I218-QE10.1_M 5.KRS Office Indoor air CO2 concentration,CO2
+148346,I218TC.B5108 Indoor air temperature,IndoorTemperature
+148347,I218TC.B5108 Relative humidity of indoor air,IndoorRH
+148350,I218TC.B5108 Indoor air CO2 concentration,CO2
+148352,I218TC.B5108.01 Indoor air temperature,IndoorTemperature
+148353,I218TC.B5108.01 Relative humidity of indoor air,IndoorRH
+148356,I218TC.B5108.01 Indoor air CO2 concentration,CO2
+148358,I218TC.B5108.3 Indoor air temperature,IndoorTemperature
+148359,I218TC.B5108.3 Relative humidity of indoor air,IndoorRH
+148362,I218TC.B5108.3 Indoor air CO2 concentration,CO2
+148364,I218TC.B5109 Indoor air temperature,IndoorTemperature
+148365,I218TC.B5109 Relative humidity of indoor air,IndoorRH
+148368,I218TC.B5109 Indoor CO2 concentration,CO2
+148370,I218TC.B5112 Indoor air temperature,IndoorTemperature
+148371,I218TC.B5112 Relative humidity of indoor air,IndoorRH
+148373,I218TC.B5112 Indoor air CO2 concentration,CO2
+148375,I218TC.B5112 Indoor air CO2 concentration,CO2
+148377,I218TC.B5317 Indoor air temperature,IndoorTemperature
+148378,I218TC.B5317 Relative humidity of indoor air,IndoorRH
+148380,I218TC.B5317 Indoor CO2 concentration,CO2
+148382,I218TC.B5317 Indoor CO2 concentration,CO2
+148384,I218TC.B5318 Indoor air temperature,IndoorTemperature
+148385,I218TC.B5318 Relative humidity of indoor air,IndoorRH
+148388,I218TC.B5318 Indoor CO2 concentration,CO2
+148390,I218TC.B5319 Indoor air temperature,IndoorTemperature
+148391,I218TC.B5319 Relative humidity of indoor air,IndoorRH
+148394,I218TC.B5319 Indoor air CO2 concentration,CO2
+148396,I218TC.B5320 Indoor air temperature,IndoorTemperature
+148397,I218TC.B5320 Relative humidity of indoor air,IndoorRH
+148400,I218TC.B5320 Indoor CO2 concentration,CO2
+148402,I218TC.B5321 Indoor air temperature,IndoorTemperature
+148403,I218TC.B5321 Relative humidity of indoor air,IndoorRH
+148406,I218TC.B5321 Indoor CO2 concentration,CO2
+148408,I218TC.B5322 Indoor air temperature,IndoorTemperature
+148409,I218TC.B5322 Relative humidity of indoor air,IndoorRH
+148412,I218TC.B5322 Indoor air CO2 concentration,CO2
+148414,I218TC.B5323 Indoor air temperature,IndoorTemperature
+148415,I218TC.B5323 Relative humidity of indoor air,IndoorRH
+148418,I218TC.B5323 Indoor CO2 concentration,CO2
+148420,I218TC.B5324 Indoor air temperature,IndoorTemperature
+148421,I218TC.B5324 Relative humidity of indoor air,IndoorRH
+148424,I218TC.B5324 Indoor CO2 concentration,CO2
+148426,I218TC.B5325 Indoor air temperature,IndoorTemperature
+148427,I218TC.B5325 Relative humidity of indoor air,IndoorRH
+148430,I218TC.B5325 Indoor CO2 concentration,CO2
+148432,I218TC.B5329 Indoor air temperature,IndoorTemperature
+148433,I218TC.B5329 Relative humidity of indoor air,IndoorRH
+148436,I218TC.B5329 Indoor CO2 concentration,CO2
+148438,I218TC.B5331 Indoor air temperature,IndoorTemperature
+148439,I218TC.B5331 Relative humidity of indoor air,IndoorRH
+148442,I218TC.B5331 Indoor CO2 concentration,CO2
+148444,I218TC.B5332 Indoor air temperature,IndoorTemperature
+148445,I218TC.B5332 Relative humidity of indoor air,IndoorRH
+150253,JKB3 - Electricity consumption of lighting,Electricity
+148448,I218TC.B5332 Indoor CO2 concentration,CO2
+148449,I218-TE.B5108_M Indoor air temperature,IndoorTemperature
+148450,I218-TE10.1_M Indoor air temperature,IndoorTemperature
+148547,I219-ME.A5101_M Relative humidity of indoor air,IndoorRH
+148551,I219TC.A5101.01 Indoor air temperature,IndoorTemperature
+148552,I219TC.A5101.01 Relative humidity of indoor air,IndoorRH
+148555,I219TC.A5101.01 Indoor air CO2 concentration,CO2
+148557,I219TC.A5101.02 Indoor air temperature,IndoorTemperature
+148558,I219TC.A5101.02 Relative humidity of indoor air,IndoorRH
+148560,I219TC.A5101.02 Indoor air CO2 concentration,CO2
+148562,I219TC.A5101.02 Indoor air CO2 concentration,CO2
+148564,I219TC.A5101.03 Indoor air temperature,IndoorTemperature
+148565,I219TC.A5101.03 Relative humidity of indoor air,IndoorRH
+148568,I219TC.A5101.03 Indoor air CO2 concentration,CO2
+148570,I219TC.A5101.04 Indoor air temperature,IndoorTemperature
+148571,I219TC.A5101.04 Relative humidity of indoor air,IndoorRH
+148574,I219TC.A5101.04 Indoor air CO2 concentration,CO2
+148576,I219TC.A5101.05 Indoor air temperature,IndoorTemperature
+148577,I219TC.A5101.05 Relative humidity of indoor air,IndoorRH
+148580,I219TC.A5101.05 Indoor air CO2 concentration,CO2
+148582,I219TC.A5101.06 Indoor air temperature,IndoorTemperature
+148583,I219TC.A5101.06 Relative humidity of indoor air,IndoorRH
+148586,I219TC.A5101.06 Indoor air CO2 concentration,CO2
+148588,I219TC.A5101.07 Indoor air temperature,IndoorTemperature
+148589,I219TC.A5101.07 Relative humidity of indoor air,IndoorRH
+148591,I219TC.A5101.07 Indoor air CO2 concentration,CO2
+148593,I219TC.A5101.07 Indoor air CO2 concentration,CO2
+148595,I219TC.A5101.08 Indoor air temperature,IndoorTemperature
+148596,I219TC.A5101.08 Relative humidity of indoor air,IndoorRH
+148599,I219TC.A5101.08 Indoor air CO2 concentration,CO2
+148601,I219TC.A5101.09 Indoor air temperature,IndoorTemperature
+148602,I219TC.A5101.09 Relative humidity of indoor air,IndoorRH
+148605,I219TC.A5101.09 Indoor air CO2 concentration,CO2
+148607,I219TC.A5101.10 Indoor air temperature,IndoorTemperature
+148608,I219TC.A5101.10 Relative humidity of indoor air,IndoorRH
+148610,I219TC.A5101.10 Indoor air CO2 concentration,CO2
+148612,I219TC.A5101.10 Indoor air CO2 concentration,CO2
+148614,I219TC.A5101.11 Indoor air temperature,IndoorTemperature
+148615,I219TC.A5101.11 Relative humidity of indoor air,IndoorRH
+148618,I219TC.A5101.11 Indoor air CO2 concentration,CO2
+148620,I219TC.A5101.12 Indoor air temperature,IndoorTemperature
+148621,I219TC.A5101.12 Relative humidity of indoor air,IndoorRH
+148624,I219TC.A5101.12 Indoor air CO2 concentration,CO2
+148626,I219TC.A5101.13 Indoor air temperature,IndoorTemperature
+148627,I219TC.A5101.13 Relative humidity of indoor air,IndoorRH
+148630,I219TC.A5101.13 Indoor air CO2 concentration,CO2
+148632,I219TC.A5101.14 Indoor air temperature,IndoorTemperature
+148633,I219TC.A5101.14 Relative humidity of indoor air,IndoorRH
+148636,I219TC.A5101.14 Indoor air CO2 concentration,CO2
+148638,I219TC.A5101.15 Indoor air temperature,IndoorTemperature
+148639,I219TC.A5101.15 Relative humidity of indoor air,IndoorRH
+148641,I219TC.A5101.15 Indoor air CO2 concentration,CO2
+148643,I219TC.A5101.15 Indoor air CO2 concentration,CO2
+148645,I219TC.A5101.16 Indoor air temperature,IndoorTemperature
+148646,I219TC.A5101.16 Relative humidity of indoor air,IndoorRH
+148649,I219TC.A5101.16 Indoor air CO2 concentration,CO2
+148651,I219TC.A5304 Indoor air temperature,IndoorTemperature
+148652,I219TC.A5304 Relative humidity of indoor air,IndoorRH
+148655,I219TC.A5304 Indoor air CO2 concentration,CO2
+148657,I219TC.A5305 Indoor air temperature,IndoorTemperature
+148658,I219TC.A5305 Relative humidity of indoor air,IndoorRH
+148661,I219TC.A5305 Indoor CO2 concentration,CO2
+148663,I219TC.A5308 Indoor air temperature,IndoorTemperature
+148664,I219TC.A5308 Relative humidity of indoor air,IndoorRH
+148667,I219TC.A5308 Indoor CO2 concentration,CO2
+148669,I219TC.A5309 Indoor air temperature,IndoorTemperature
+148670,I219TC.A5309 Relative humidity of indoor air,IndoorRH
+148673,I219TC.A5309 Indoor CO2 concentration,CO2
+148675,I219TC.A5310 Indoor air temperature,IndoorTemperature
+148676,I219TC.A5310 Relative humidity of indoor air,IndoorRH
+148680,I219TC.A5310 Indoor air CO2 concentration,CO2
+148682,I219TC.A5316 Indoor air temperature,IndoorTemperature
+148683,I219TC.A5316 Relative humidity of indoor air,IndoorRH
+148687,I219TC.A5316 Indoor CO2 concentration,CO2
+148822,I221-ME.B6108_M Relative humidity of indoor air,IndoorRH
+148825,I221-QE10.1_M 6.KRS Office Indoor air CO2 concentration,CO2
+148828,I221TC.B6108.01 Indoor air temperature,IndoorTemperature
+148829,I221TC.B6108.01 Indoor air temperature,IndoorTemperature
+148830,I221TC.B6108.01 Relative humidity of indoor air,IndoorRH
+148831,I221TC.B6108.01 Relative humidity of indoor air,IndoorRH
+148836,I221TC.B6108.01 Indoor air CO2 concentration,CO2
+148837,I221TC.B6108.01 Indoor air CO2 concentration,CO2
+148840,I221TC.B6108.02 Indoor air temperature,IndoorTemperature
+148841,I221TC.B6108.02 Indoor air temperature,IndoorTemperature
+148842,I221TC.B6108.02 Relative humidity of indoor air,IndoorRH
+148843,I221TC.B6108.02 Relative humidity of indoor air,IndoorRH
+148846,I221TC.B6108.02 Indoor air CO2 concentration,CO2
+148849,I221TC.B6108.02 Indoor air CO2 concentration,CO2
+148850,I221TC.B6108.02 Indoor air CO2 concentration,CO2
+148852,I221TC.B6108.03 Indoor air temperature,IndoorTemperature
+148853,I221TC.B6108.03 Relative humidity of indoor air,IndoorRH
+148855,I221TC.B6108.03 Indoor air CO2 concentration,CO2
+148857,I221TC.B6108.03 Indoor air CO2 concentration,CO2
+148859,I221TC.B6109 Indoor air temperature,IndoorTemperature
+148860,I221TC.B6109 Relative humidity of indoor air,IndoorRH
+148863,I221TC.B6109 Indoor air CO2 concentration,CO2
+148865,I221TC.B6112 Indoor air temperature,IndoorTemperature
+148866,I221TC.B6112 Relative humidity of indoor air,IndoorRH
+148869,I221TC.B6112 Indoor air CO2 concentration,CO2
+148871,I221TC.B6317 Indoor air temperature,IndoorTemperature
+148872,I221TC.B6317 Relative humidity of indoor air,IndoorRH
+148874,I221TC.B6317 Indoor CO2 concentration,CO2
+148876,I221TC.B6317 Indoor CO2 concentration,CO2
+148878,I221TC.B6318 Indoor air temperature,IndoorTemperature
+148879,I221TC.B6318 Relative humidity of indoor air,IndoorRH
+148882,I221TC.B6318 Indoor air CO2 concentration,CO2
+148884,I221TC.B6319 Indoor air temperature,IndoorTemperature
+148885,I221TC.B6319 Relative humidity of indoor air,IndoorRH
+148888,I221TC.B6319 Indoor CO2 concentration,CO2
+148890,I221TC.B6320 Indoor air temperature,IndoorTemperature
+148891,I221TC.B6320 Relative humidity of indoor air,IndoorRH
+148894,I221TC.B6320 Indoor air CO2 concentration,CO2
+148896,I221TC.B6321 Indoor air temperature,IndoorTemperature
+148897,I221TC.B6321 Relative humidity of indoor air,IndoorRH
+148899,I221TC.B6321 Indoor CO2 concentration,CO2
+148901,I221TC.B6321 Indoor CO2 concentration,CO2
+148903,I221TC.B6322 Indoor air temperature,IndoorTemperature
+148904,I221TC.B6322 Relative humidity of indoor air,IndoorRH
+148907,I221TC.B6322 Indoor air CO2 concentration,CO2
+148909,I221TC.B6323 Indoor air temperature,IndoorTemperature
+148910,I221TC.B6323 Relative humidity of indoor air,IndoorRH
+148913,I221TC.B6323 Indoor CO2 concentration,CO2
+148915,I221TC.B6324 Indoor air temperature,IndoorTemperature
+148916,I221TC.B6324 Relative humidity of indoor air,IndoorRH
+148919,I221TC.B6324 Indoor air CO2 concentration,CO2
+148921,I221TC.B6325 Indoor air temperature,IndoorTemperature
+148922,I221TC.B6325 Relative humidity of indoor air,IndoorRH
+148925,I221TC.B6325 Indoor CO2 concentration,CO2
+148927,I221TC.B6329 Indoor air temperature,IndoorTemperature
+148928,I221TC.B6329 Relative humidity of indoor air,IndoorRH
+148931,I221TC.B6329 Indoor CO2 concentration,CO2
+148933,I221TC.B6331 Indoor air temperature,IndoorTemperature
+148934,I221TC.B6331 Relative humidity of indoor air,IndoorRH
+148937,I221TC.B6331 Indoor CO2 concentration,CO2
+148939,I221TC.B6332 Indoor air temperature,IndoorTemperature
+148940,I221TC.B6332 Relative humidity of indoor air,IndoorRH
+148943,I221TC.B6332 Indoor air CO2 concentration,CO2
+148945,I221TC.B6339 Indoor air temperature,IndoorTemperature
+148946,I221TC.B6339 Relative humidity of indoor air,IndoorRH
+148949,I221TC.B6339 Indoor CO2 concentration,CO2
+148950,I221-TE.B6108_M Indoor air temperature,IndoorTemperature
+148951,I221-TE10.1_M Indoor air temperature,IndoorTemperature
+149060,I222-ME.A6101_M Relative humidity of indoor air,IndoorRH
+149064,I222TC.A6101.01 Indoor air temperature,IndoorTemperature
+149065,I222TC.A6101.01 Relative humidity of indoor air,IndoorRH
+149068,I222TC.A6101.01 Indoor air CO2 concentration,CO2
+149070,I222TC.A6101.02 Indoor air temperature,IndoorTemperature
+149071,I222TC.A6101.02 Relative humidity of indoor air,IndoorRH
+149073,I222TC.A6101.02 Indoor air CO2 concentration,CO2
+149075,I222TC.A6101.02 Indoor air CO2 concentration,CO2
+149077,I222TC.A6101.03 Indoor air temperature,IndoorTemperature
+149078,I222TC.A6101.03 Relative humidity of indoor air,IndoorRH
+149081,I222TC.A6101.03 Indoor air CO2 concentration,CO2
+149083,I222TC.A6101.04 Indoor air temperature,IndoorTemperature
+149084,I222TC.A6101.04 Relative humidity of indoor air,IndoorRH
+149087,I222TC.A6101.04 Indoor air CO2 concentration,CO2
+149089,I222TC.A6101.05 Indoor air temperature,IndoorTemperature
+149090,I222TC.A6101.05 Relative humidity of indoor air,IndoorRH
+149093,I222TC.A6101.05 Indoor air CO2 concentration,CO2
+149095,I222TC.A6101.06 Indoor air temperature,IndoorTemperature
+149096,I222TC.A6101.06 Relative humidity of indoor air,IndoorRH
+149099,I222TC.A6101.06 Indoor air CO2 concentration,CO2
+149101,I222TC.A6101.07 Indoor air temperature,IndoorTemperature
+149102,I222TC.A6101.07 Relative humidity of indoor air,IndoorRH
+149104,I222TC.A6101.07 Indoor air CO2 concentration,CO2
+149106,I222TC.A6101.07 Indoor air CO2 concentration,CO2
+149108,I222TC.A6101.08 Indoor air temperature,IndoorTemperature
+149109,I222TC.A6101.08 Relative humidity of indoor air,IndoorRH
+149112,I222TC.A6101.08 Indoor air CO2 concentration,CO2
+149114,I222TC.A6101.09 Indoor air temperature,IndoorTemperature
+149115,I222TC.A6101.09 Relative humidity of indoor air,IndoorRH
+149118,I222TC.A6101.09 Indoor air CO2 concentration,CO2
+149120,I222TC.A6101.10 Indoor air temperature,IndoorTemperature
+149121,I222TC.A6101.10 Relative humidity of indoor air,IndoorRH
+149123,I222TC.A6101.10 Indoor air CO2 concentration,CO2
+149125,I222TC.A6101.10 Indoor air CO2 concentration,CO2
+149127,I222TC.A6101.11 Indoor air temperature,IndoorTemperature
+149128,I222TC.A6101.11 Relative humidity of indoor air,IndoorRH
+149131,I222TC.A6101.11 Indoor air CO2 concentration,CO2
+149133,I222TC.A6101.12 Indoor air temperature,IndoorTemperature
+149134,I222TC.A6101.12 Relative humidity of indoor air,IndoorRH
+149137,I222TC.A6101.12 Indoor air CO2 concentration,CO2
+149139,I222TC.A6101.13 Indoor air temperature,IndoorTemperature
+149140,I222TC.A6101.13 Relative humidity of indoor air,IndoorRH
+149143,I222TC.A6101.13 Indoor air CO2 concentration,CO2
+149145,I222TC.A6101.14 Indoor air temperature,IndoorTemperature
+149146,I222TC.A6101.14 Relative humidity of indoor air,IndoorRH
+149149,I222TC.A6101.14 Indoor air CO2 concentration,CO2
+149151,I222TC.A6101.15 Indoor air temperature,IndoorTemperature
+149152,I222TC.A6101.15 Relative humidity of indoor air,IndoorRH
+149154,I222TC.A6101.15 Indoor air CO2 concentration,CO2
+149156,I222TC.A6101.15 Indoor air CO2 concentration,CO2
+149158,I222TC.A6101.16 Indoor air temperature,IndoorTemperature
+149159,I222TC.A6101.16 Relative humidity of indoor air,IndoorRH
+149162,I222TC.A6101.16 Indoor air CO2 concentration,CO2
+149164,I222TC.A6304 Indoor air temperature,IndoorTemperature
+149165,I222TC.A6304 Relative humidity of indoor air,IndoorRH
+149168,I222TC.A6304 Indoor air CO2 concentration,CO2
+149170,I222TC.A6305 Indoor air temperature,IndoorTemperature
+149171,I222TC.A6305 Relative humidity of indoor air,IndoorRH
+149174,I222TC.A6305 Indoor CO2 concentration,CO2
+149176,I222TC.A6306 Indoor air temperature,IndoorTemperature
+149177,I222TC.A6306 Relative humidity of indoor air,IndoorRH
+149180,I222TC.A6306 Indoor air CO2 concentration,CO2
+149182,I222TC.A6307 Indoor air temperature,IndoorTemperature
+149183,I222TC.A6307 Relative humidity of indoor air,IndoorRH
+149186,I222TC.A6307 Indoor CO2 concentration,CO2
+149188,I222TC.A6308 Indoor air temperature,IndoorTemperature
+149189,I222TC.A6308 Relative humidity of indoor air,IndoorRH
+149192,I222TC.A6308 Indoor CO2 concentration,CO2
+149194,I222TC.A6309 Indoor air temperature,IndoorTemperature
+149195,I222TC.A6309 Relative humidity of indoor air,IndoorRH
+149198,I222TC.A6309 Indoor CO2 concentration,CO2
+149200,I222TC.A6310 Indoor air temperature,IndoorTemperature
+149201,I222TC.A6310 Relative humidity of indoor air,IndoorRH
+149204,I222TC.A6310 Indoor air CO2 concentration,CO2
+149206,I222TC.A6316 Indoor air temperature,IndoorTemperature
+149207,I222TC.A6316 Relative humidity of indoor air,IndoorRH
+149210,I222TC.A6316 Indoor air CO2 concentration,CO2
+149211,I222-TE.A6101_M Indoor air temperature,IndoorTemperature
+149297,I223-ME.B1118_M Relative humidity of indoor air,IndoorRH
+149298,I223-ME.C1131_M Relative humidity of indoor air,IndoorRH
+149299,I223-ME09A1102_M Relative humidity of indoor air,IndoorRH
+149306,I223-QE10.1_M 1.KRS Office Indoor air CO2 concentration,CO2
+149308,I223TC.B1305.2 Indoor air temperature,IndoorTemperature
+149309,I223TC.B1305.2 Relative humidity of indoor air,IndoorRH
+149312,I223TC.B1305.2 Indoor air CO2 concentration,CO2
+149314,I223TC.B1305.3 Indoor air temperature,IndoorTemperature
+149315,I223TC.B1305.3 Relative humidity of indoor air,IndoorRH
+149317,I223TC.B1305.3 Indoor air CO2 concentration,CO2
+149319,I223TC.B1305.3 Indoor air CO2 concentration,CO2
+149322,I223TC.C1124 Indoor air temperature,IndoorTemperature
+149323,I223TC.C1124 Relative humidity of indoor air,IndoorRH
+149327,I223TC.C1124 Indoor air CO2 concentration,CO2
+149329,I223TC.C1128 Indoor air temperature,IndoorTemperature
+149330,I223TC.C1128 Relative humidity of indoor air,IndoorRH
+149333,I223TC.C1128 Indoor CO2 concentration,CO2
+149335,I223TC.C1128.1 Indoor air temperature,IndoorTemperature
+149336,I223TC.C1128.1 Relative humidity of indoor air,IndoorRH
+149339,I223TC.C1128.1 Indoor CO2 concentration,CO2
+149341,I223TC.C1128.2 Indoor air temperature,IndoorTemperature
+149342,I223TC.C1128.2 Relative humidity of indoor air,IndoorRH
+149345,I223TC.C1128.2 Indoor air CO2 concentration,CO2
+149347,I223TC.C1129 Indoor air temperature,IndoorTemperature
+149348,I223TC.C1129 Relative humidity of indoor air,IndoorRH
+149351,I223TC.C1129 Indoor CO2 concentration,CO2
+149353,I223TC.C1306 Indoor air temperature,IndoorTemperature
+149354,I223TC.C1306 Relative humidity of indoor air,IndoorRH
+149356,I223TC.C1306 Indoor air CO2 concentration,CO2
+149358,I223TC.C1306 Indoor air CO2 concentration,CO2
+149360,I223TC.C1319 Indoor air temperature,IndoorTemperature
+149361,I223TC.C1319 Relative humidity of indoor air,IndoorRH
+149364,I223TC.C1319 Indoor CO2 concentration,CO2
+149366,I223TC.C1328 Indoor air temperature,IndoorTemperature
+149367,I223TC.C1328 Relative humidity of indoor air,IndoorRH
+149370,I223TC.C1328 Indoor CO2 concentration,CO2
+149372,I223TC.C1331 Indoor air temperature,IndoorTemperature
+149373,I223TC.C1331 Relative humidity of indoor air,IndoorRH
+149376,I223TC.C1331 Indoor CO2 concentration,CO2
+149378,I223TC.C1469 Indoor air temperature,IndoorTemperature
+149379,I223TC.C1469 Relative humidity of indoor air,IndoorRH
+149381,I223TC.C1469 Indoor CO2 concentration,CO2
+149383,I223TC.C1469 Indoor CO2 concentration,CO2
+149384,I223-TE.B1118_M Indoor air temperature,IndoorTemperature
+149385,I223-TE.C1131_M Indoor air temperature,IndoorTemperature
+149386,I223-TE10.1_M Indoor air temperature,IndoorTemperature
+149427,I224TC.A1305 Indoor air temperature,IndoorTemperature
+149428,I224TC.A1305 Relative humidity of indoor air,IndoorRH
+149430,I224TC.A1305 Indoor air CO2 concentration,CO2
+149432,I224TC.A1305 Indoor air CO2 concentration,CO2
+149487,I226-QE10.1_M 1.KRS Office Indoor air CO2 concentration,CO2
+149489,I226TC.B1305.1 Indoor air temperature,IndoorTemperature
+149490,I226TC.B1305.1 Relative humidity of indoor air,IndoorRH
+149493,I226TC.B1305.1 Indoor CO2 concentration,CO2
+149495,I226TC.B1314 Indoor air temperature,IndoorTemperature
+149496,I226TC.B1314 Relative humidity of indoor air,IndoorRH
+149499,I226TC.B1314 Indoor air CO2 concentration,CO2
+149501,I226TC.B1315 Indoor air temperature,IndoorTemperature
+149502,I226TC.B1315 Relative humidity of indoor air,IndoorRH
+149505,I226TC.B1315 Indoor CO2 concentration,CO2
+149507,I226TC.B1316 Indoor air temperature,IndoorTemperature
+149508,I226TC.B1316 Relative humidity of indoor air,IndoorRH
+149511,I226TC.B1316 Indoor air CO2 concentration,CO2
+149513,I226TC.B1458 Indoor air temperature,IndoorTemperature
+149514,I226TC.B1458 Relative humidity of indoor air,IndoorRH
+149517,I226TC.B1458 Indoor CO2 concentration,CO2
+149518,I226-TE10.1_M Indoor air temperature,IndoorTemperature
+149557,I227-ME.A1102_M Relative humidity of indoor air,IndoorRH
+149561,I227TC.A1101 Indoor air temperature,IndoorTemperature
+149562,I227TC.A1101 Relative humidity of indoor air,IndoorRH
+149564,I227TC.A1101 Indoor air CO2 concentration,CO2
+149566,I227TC.A1101 Indoor air CO2 concentration,CO2
+149567,I227-TE.A1102_M Indoor air temperature,IndoorTemperature
+149607,I228TC.A1411 Indoor air temperature,IndoorTemperature
+149609,I228TC.A1411 Indoor CO2 concentration,CO2
+149648,I228TK_TE09_1_M Indoor air temperature,IndoorTemperature
+149656,I241TC.C2431 Indoor air temperature,IndoorTemperature
+149657,I241TC.C2431 Relative humidity of indoor air,IndoorRH
+149660,I241TC.C2431 Indoor CO2 concentration,CO2
+149661,I241TC.C5427 Indoor air temperature,IndoorTemperature
+149662,I241TC.C5427 Relative humidity of indoor air,IndoorRH
+149663,I241TC.C5427 Indoor CO2 concentration,CO2
+149664,I241TC.C6427 Indoor air temperature,IndoorTemperature
+149665,I241TC.C6427 Relative humidity of indoor air,IndoorRH
+149666,I241TC.C6427 Indoor CO2 concentration,CO2
+149699,I242TC.B4424 Indoor air temperature,IndoorTemperature
+149700,I242TC.B4424 Relative humidity of indoor air,IndoorRH
+149703,I242TC.B4424 Indoor air CO2 concentration,CO2
+149705,I242TC.B5424 Indoor air temperature,IndoorTemperature
+149706,I242TC.B5424 Relative humidity of indoor air,IndoorRH
+149709,I242TC.B5424 Indoor air CO2 concentration,CO2
+149711,I242TC.B6424 Indoor air temperature,IndoorTemperature
+149712,I242TC.B6424 Relative humidity of indoor air,IndoorRH
+149715,I242TC.B6424 Indoor air CO2 concentration,CO2
+149779,I244TC.A2408 Indoor air temperature,IndoorTemperature
+149780,I244TC.A2408 Relative humidity of indoor air,IndoorRH
+149783,I244TC.A2408 Indoor air CO2 concentration,CO2
+149785,I244TC.A3408 Indoor air temperature,IndoorTemperature
+149786,I244TC.A3408 Relative humidity of indoor air,IndoorRH
+149789,I244TC.A3408 Indoor CO2 concentration,CO2
+149791,I244TC.A4408 Indoor air temperature,IndoorTemperature
+149792,I244TC.A4408 Relative humidity of indoor air,IndoorRH
+149795,I244TC.A4408 Indoor air CO2 concentration,CO2
+149797,I244TC.A5408 Indoor air temperature,IndoorTemperature
+149798,I244TC.A5408 Relative humidity of indoor air,IndoorRH
+149802,I244TC.A5408 Indoor air CO2 concentration,CO2
+149804,I244TC.A6408 Indoor air temperature,IndoorTemperature
+149805,I244TC.A6408 Relative humidity of indoor air,IndoorRH
+149808,I244TC.A6408 Indoor CO2 concentration,CO2
+149929,I248TC.B7102 Indoor air temperature,IndoorTemperature
+149930,I248TC.B7102 Relative humidity of indoor air,IndoorRH
+149932,I248TC.B7102 Indoor air CO2 concentration,CO2
+149934,I248TC.B7102 Indoor air CO2 concentration,CO2
+149936,I248TC.B7103 Indoor air temperature,IndoorTemperature
+149937,I248TC.B7103 Relative humidity of indoor air,IndoorRH
+149939,I248TC.B7103 Indoor CO2 concentration,CO2
+149941,I248TC.B7103 Indoor CO2 concentration,CO2
+149964,I248TK_QE09.7102_M Indoor air CO2 concentration,CO2
+149965,I248TK_QE09.7103_M Indoor air CO2 concentration,CO2
+149971,I248TK_TE09.7102_M Indoor air temperature,IndoorTemperature
+149972,I248TK_TE09.7103_M Indoor air temperature,IndoorTemperature
+149980,I249TC.B7306 Indoor air temperature,IndoorTemperature
+149981,I249TC.B7306 Relative humidity of indoor air,IndoorRH
+149983,I249TC.B7306 Indoor CO2 concentration,CO2
+149985,I249TC.B7306 Indoor CO2 concentration,CO2
+149987,I249TC.B7307 Indoor air temperature,IndoorTemperature
+149988,I249TC.B7307 Relative humidity of indoor air,IndoorRH
+149990,I249TC.B7307 Indoor CO2 concentration,CO2
+149992,I249TC.B7307 Indoor CO2 concentration,CO2
+149994,I257TC.C0134 Indoor air temperature,IndoorTemperature
+149995,I257TC.C0134 Relative humidity of indoor air,IndoorRH
+149998,I257TC.C0134 Indoor CO2 concentration,CO2
+150000,I257TC.C0411 Indoor air temperature,IndoorTemperature
+150001,I257TC.C0411 Relative humidity of indoor air,IndoorRH
+150004,I257TC.C0411 Indoor CO2 concentration,CO2
+150006,I257TC.C0412 Indoor air temperature,IndoorTemperature
+150007,I257TC.C0412 Relative humidity of indoor air,IndoorRH
+150010,I257TC.C0412 Indoor air CO2 concentration,CO2
+150012,I257TC.C0424 Indoor air temperature,IndoorTemperature
+150013,I257TC.C0424 Relative humidity of indoor air,IndoorRH
+150016,I257TC.C0424 Indoor air CO2 concentration,CO2
+150019,I265.B7303 Indoor air temperature,IndoorTemperature
+150020,I265.B7303 Relative humidity of indoor air,IndoorRH
+150023,I265.B7303 Indoor air CO2 concentration,CO2
+150025,I265.C7309 Indoor air temperature,IndoorTemperature
+150026,I265.C7309 Relative humidity of indoor air,IndoorRH
+150029,I265.C7309 Indoor CO2 concentration,CO2
+150047,I611_OVK107_TE09_M Indoor air temperature,IndoorTemperature
+150076,J321_TE09.C0135_M Indoor air temperature,IndoorTemperature
+150077,J321_TE09.C0413_M Indoor air temperature,IndoorTemperature
+150555,L114_TE09-A7406_M Indoor air temperature,IndoorTemperature
+150556,L114_TE09-A7411_M Indoor air temperature,IndoorTemperature
+150559,L114-TE09_C0125_M Indoor air temperature,IndoorTemperature
+150560,L114-TE09_C0127_M Indoor air temperature,IndoorTemperature
+150561,L114-TE09_C0128_M Indoor air temperature,IndoorTemperature
+150562,L114-TE09_C0131_M Indoor air temperature,IndoorTemperature
+150251,JKB3 - Total electricity consumption,Electricity
+150563,L114-TE09_C0136_M Indoor air temperature,IndoorTemperature
+150564,L114-TE09_C0137_M Indoor air temperature,IndoorTemperature
+150565,L114-TEL09_C0425_M Indoor air temperature,IndoorTemperature
+136975,Property electricity,Electricity
+193441,Solar energy yield,Electricity
+150082,JKA0.1 - Electricity consumption of lighting,Electricity
+150081,JKA0.1 - HVAC Electricity consumption,Electricity
+150080,JKA0.1 - Total electricity consumption,Electricity
+150087,JKA0.2 - Electricity consumption of lighting,Electricity
+150086,JKA0.2 - Total electricity consumption,Electricity
+150091,JKA0.3 HVAC - District heating Electricity consumption,Electricity
+150092,JKA0.3 HVAC - Other HVAC technology Electricity consumption,Electricity
+150090,JKA0.3 HVAC - Remote cooling Electricity consumption,Electricity
+150099,JKA1 - Electricity consumption of lighting,Electricity
+150098,JKA1 - HVAC Electricity consumption,Electricity
+150100,JKA1 UPS - Electricity consumption,Electricity
+150110,JKA1-Total electricity consumption,Electricity
+150101,JKA1.2_1 - Electricity consumption of kitchen lighting,Electricity
+150102,JKA1.2_1-Total consumption kitchen Electricity consumption,Electricity
+150103,JKA1.2_2 - Restaurant lighting electricity consumption,Electricity
+150104,JKA1.2_2-Total consumption restaurant Electricity consumption,Electricity
+150115,JKA2 - Electricity consumption of lighting,Electricity
+150114,JKA2 - Total electricity consumption,Electricity
+150116,JKA2 UPS - Electricity consumption,Electricity
+150118,JKA2.1 - Electricity consumption of lighting,Electricity
+150117,JKA2.1 - Total electricity consumption,Electricity
+150122,JKA2.2 - Electricity consumption of lighting,Electricity
+150121,JKA2.2 - Total electricity consumption,Electricity
+150129,JKA3 - Electricity consumption of lighting,Electricity
+150128,JKA3 - Total electricity consumption,Electricity
+150130,JKA3 UPS - Electricity consumption,Electricity
+150132,JKA3.1 - Electricity consumption of lighting,Electricity
+150131,JKA3.1 - Total electricity consumption,Electricity
+150136,JKA3.2 - Electricity consumption of lighting,Electricity
+150135,JKA3.2 - Total electricity consumption,Electricity
+150145,JKA4 - Electricity consumption of lighting,Electricity
+150143,JKA4 - Total electricity consumption,Electricity
+150147,JKA4 UPS - Electricity consumption,Electricity
+150151,JKA4.1 - Electricity consumption of lighting,Electricity
+150149,JKA4.1 - Total electricity consumption,Electricity
+150153,JKA4.2 - Electricity consumption of lighting,Electricity
+150152,JKA4.2 - Total electricity consumption,Electricity
+150159,JKA5 - Electricity consumption of lighting,Electricity
+150157,JKA5 - Total electricity consumption,Electricity
+150161,JKA5 UPS - Electricity consumption,Electricity
+150165,JKA5.1 - Electricity consumption of lighting,Electricity
+150163,JKA5.1 - Total electricity consumption,Electricity
+150167,JKA5.2 - Electricity consumption of lighting,Electricity
+150166,JKA5.2 - Total electricity consumption,Electricity
+150173,JKA6 - Electricity consumption of lighting,Electricity
+150171,JKA6 - Total electricity consumption,Electricity
+150175,JKA6 UPS - Electricity consumption,Electricity
+150179,JKA6.1 - Electricity consumption of lighting,Electricity
+150177,JKA6.1 - Total electricity consumption,Electricity
+150181,JKA6.2 - Electricity consumption of lighting,Electricity
+150180,JKA6.2 - Total electricity consumption,Electricity
+150185,JKA7 UPS - Electricity consumption,Electricity
+150189,JKA7.1 - Electricity consumption of lighting,Electricity
+150187,JKA7.1 - Total electricity consumption,Electricity
+150196,JKA7.2 HVAC - Electricity consumption of lighting,Electricity
+150190,JKA7.2 HVAC - Elevator A1 Electricity consumption,Electricity
+150195,JKA7.2 HVAC - HVAC Electricity consumption,Electricity
+150191,JKA7.2 HVAC - Heater Electricity consumption,Electricity
+150192,JKA7.2 HVAC - Heater_2 Electricity consumption,Electricity
+150194,JKA7.2 HVAC - Heating Electricity consumption,Electricity
+150193,JKA7.2 HVAC - Total electricity consumption,Electricity
+150198,JKA7.2 Solar electricity yield / Booking,Electricity
+150211,JKB0.1 - Electricity consumption of lighting,Electricity
+150209,JKB0.1 - HVAC Electricity consumption,Electricity
+150207,JKB0.1 - Total electricity consumption,Electricity
+150215,JKB1 - Electricity consumption of lighting,Electricity
+150213,JKB1 - Total electricity consumption,Electricity
+150217,JKB1 UPS - Electricity consumption,Electricity
+150221,JKB1.1 - Electricity consumption of lighting,Electricity
+150219,JKB1.1 - Total electricity consumption,Electricity
+150223,JKB1.2 - Electricity consumption of lighting,Electricity
+150222,JKB1.2 - Total electricity consumption,Electricity
+150229,JKB1.3 - Electricity consumption of lighting,Electricity
+150227,JKB1.3 - Total electricity consumption,Electricity
+150231,JKB2 - Electricity consumption of lighting,Electricity
+150230,JKB2 - Total electricity consumption,Electricity
+150232,JKB2 UPS - Electricity consumption,Electricity
+150234,JKB2.1 - Electricity consumption of lighting,Electricity
+150233,JKB2.1 - Total electricity consumption,Electricity
+150238,JKB2.2 - Electricity consumption of lighting,Electricity
+150237,JKB2.2 - Total electricity consumption,Electricity
+150243,JKB2.3 - Electricity consumption of lighting,Electricity
+150241,JKB2.3 - Kitchen Electricity consumption,Electricity
+150255,JKB3 UPS - Electricity consumption,Electricity
+150259,JKB3.1 - Electricity consumption of lighting,Electricity
+150257,JKB3.1 - Total electricity consumption,Electricity
+150261,JKB3.2 - Electricity consumption of lighting,Electricity
+150260,JKB3.2 - Total electricity consumption,Electricity
+150267,JKB4 - Electricity consumption of lighting,Electricity
+150265,JKB4 - Total electricity consumption,Electricity
+150269,JKB4 UPS - Electricity consumption,Electricity
+150273,JKB4.1 - Electricity consumption of lighting,Electricity
+150271,JKB4.1 - Total electricity consumption,Electricity
+150275,JKB4.2 - Electricity consumption of lighting,Electricity
+150274,JKB4.2 - Total electricity consumption,Electricity
+150281,JKB5 - Electricity consumption of lighting,Electricity
+150279,JKB5 - Total electricity consumption,Electricity
+150283,JKB5 UPS - Electricity consumption,Electricity
+150287,JKB5.1 - Electricity consumption of lighting,Electricity
+150285,JKB5.1 - Total electricity consumption,Electricity
+150289,JKB5.2 - Electricity consumption of lighting,Electricity
+150288,JKB5.2 - Total electricity consumption,Electricity
+150295,JKB6 - Electricity consumption of lighting,Electricity
+150293,JKB6 - Total electricity consumption,Electricity
+150297,JKB6 UPS - Electricity consumption,Electricity
+150301,JKB6.1 - Electricity consumption of lighting,Electricity
+150299,JKB6.1 - Total electricity consumption,Electricity
+150303,JKB6.2 - Electricity consumption of lighting,Electricity
+150302,JKB6.2 - Total electricity consumption,Electricity
+150309,JKB7.2 HVAC - Electricity consumption of lighting,Electricity
+150308,JKB7.2 HVAC - HVAC Electricity consumption,Electricity
+150307,JKB7.2 HVAC - Heating Electricity consumption,Electricity
+150306,JKB7.2 HVAC - Total electricity consumption,Electricity
+150310,JKB7.2 Solar electricity yield,Electricity
+150330,JKB7.3 HVAC - Electricity consumption of lighting,Electricity
+150319,JKB7.3 HVAC - Elevator B1 Electricity consumption,Electricity
+150320,JKB7.3 HVAC - Elevator B2 Electricity consumption,Electricity
+150322,JKB7.3 HVAC - Elevator B3 Electricity consumption,Electricity
+150328,JKB7.3 HVAC - HVAC Electricity consumption,Electricity
+150326,JKB7.3 HVAC - Heating Electricity consumption,Electricity
+150324,JKB7.3 HVAC - Total electricity consumption,Electricity
+150332,JKC0 UPS - Power consumption,Electricity
+150340,JKC0.0 - Electricity consumption of lighting,Electricity
+150336,JKC0.0 - HVAC Electricity consumption,Electricity
+150338,JKC0.0 - Operators Electricity consumption,Electricity
+150334,JKC0.0 - Total electricity consumption,Electricity
+150342,JKC0.0 UPS - Power consumption,Electricity
+150346,JKC0.1 - Electricity consumption of lighting,Electricity
+150344,JKC0.1 - Total electricity consumption,Electricity
+150348,JKC0.2 VSS2 - Electricity consumption of lighting,Electricity
+150347,JKC0.2 VSS2 - Total electricity consumption,Electricity
+150354,JKC0.3 VSS1 - Electricity consumption of lighting,Electricity
+150352,JKC0.3 VSS1 - Total electricity consumption,Electricity
+150356,JKC0.4 - UPS Electricity consumption,Electricity
+150360,JKC0.5 VSS4 - Electricity consumption of lighting,Electricity
+150359,JKC0.5 VSS4 - Total electricity consumption,Electricity
+150365,JKC0.6 VSS5 - Electricity consumption of lighting,Electricity
+150364,JKC0.6 VSS5 - Total consumption5 Electricity consumption,Electricity
+150363,JKC0.6 VSS5 - Total electricity consumption,Electricity
+150370,JKC0.7 VSS3 - Electricity consumption of lighting,Electricity
+150369,JKC0.7 VSS3 - Total electricity consumption,Electricity
+150377,JKC1 - Electricity consumption of lighting,Electricity
+150375,JKC1 - Total electricity consumption,Electricity
+150383,JKC1.1 - Electricity consumption of lighting,Electricity
+150379,JKC1 UPS - Power consumption,Electricity
+150381,JKC1.1 - Total electricity consumption,Electricity
+150385,JKC1.2 - Electricity consumption of lighting,Electricity
+150384,JKC1.2 - Total electricity consumption,Electricity
+150389,JKC2 - Electricity consumption of lighting,Electricity
+150388,JKC2 - Total electricity consumption,Electricity
+150390,JKC2 UPS - Power consumption,Electricity
+150392,JKC2.1 - Electricity consumption of lighting,Electricity
+150391,JKC2.1 - Total electricity consumption,Electricity
+150396,JKC2.2 - Electricity consumption of lighting,Electricity
+150395,JKC2.2 - Total electricity consumption,Electricity
+150405,JKC3 - Electricity consumption of lighting,Electricity
+150403,JKC3 - Total electricity consumption,Electricity
+150407,JKC3 UPS - Power consumption,Electricity
+150411,JKC3.1 - Electricity consumption of lighting,Electricity
+150409,JKC3.1 - Total electricity consumption,Electricity
+150413,JKC3.2 - Electricity consumption of lighting,Electricity
+150412,JKC3.2 - Total electricity consumption,Electricity
+150419,JKC4 - Electricity consumption of lighting,Electricity
+150417,JKC4 - Total electricity consumption,Electricity
+150421,JKC4 UPS - Power consumption,Electricity
+150425,JKC4.1 - Electricity consumption of lighting,Electricity
+150423,JKC4.1 - Total electricity consumption,Electricity
+150427,JKC4.2 - Electricity consumption of lighting,Electricity
+150426,JKC4.2 - Total electricity consumption,Electricity
+150433,JKC5 - Electricity consumption of lighting,Electricity
+150431,JKC5 - Total electricity consumption,Electricity
+150435,JKC5 UPS - Power consumption,Electricity
+150439,JKC5.1 - Electricity consumption of lighting,Electricity
+150437,JKC5.1 - Total electricity consumption,Electricity
+150441,JKC5.2 - Electricity consumption of lighting,Electricity
+150440,JKC5.2 - Total electricity consumption,Electricity
+150447,JKC6 - Electricity consumption of lighting,Electricity
+150445,JKC6 - Total electricity consumption,Electricity
+150449,JKC6 UPS - Power consumption,Electricity
+150453,JKC6.1 - Electricity consumption of lighting,Electricity
+150451,JKC6.1 - Total electricity consumption,Electricity
+150455,JKC6.2 - Electricity consumption of lighting,Electricity
+150454,JKC6.2 - Total electricity consumption,Electricity
+150459,JKC7 UPS - Power consumption,Electricity
+150463,JKC7.1 - Electricity consumption of lighting,Electricity
+150461,JKC7.1 - Total electricity consumption,Electricity
+150467,JKC7.2 HVAC - Electricity consumption for lighting,Electricity
+150466,JKC7.2 HVAC - HVAC Electricity consumption,Electricity
+150465,JKC7.2 HVAC - Heating Electricity consumption,Electricity
+150464,JKC7.2 HVAC - Total electricity consumption,Electricity
+150468,JKC7.2 Production of solar electricity,Electricity
+144800,6829_Työpajankatu_8_VAK-1.1 Outdoor air temperature,OutdoorTemperature
+150017,I262KSK_TE00_M Outdoor temperature,OutdoorTemperature
+150479,L100_TE00_M Outdoor air temperature,OutdoorTemperature
+148678,I219TC.A5310 Outdoor temperature,OutdoorTemperature
+148685,I219TC.A5316 Outdoor temperature,OutdoorTemperature
+149800,I244TC.A5408 Outdoor temperature,OutdoorTemperature
