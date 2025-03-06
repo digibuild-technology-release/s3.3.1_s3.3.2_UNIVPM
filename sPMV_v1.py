@@ -187,10 +187,3 @@ def sPMV_calculation(indoorT, indoorRH,  date): #sensor,
             print('No NaN values have been found.')
 
     return sPMV
-
-
-
-
-
-    
-                

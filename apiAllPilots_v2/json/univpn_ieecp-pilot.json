@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "description": "Testing the ML models for comfort classification",
+        "sensors": ["70:ee:50:96:1d:fc_co2", "70:ee:50:96:55:1e_co2", "70:ee:50:96:49:28_co2", 
+                    "70:ee:50:96:57:ee_co2", "70:ee:50:96:32:a4_co2", "70:ee:50:96:32:ea_co2", "70:ee:50:96:1d:fc_humidity", 
+                    "70:ee:50:96:1e:78_humidity", "70:ee:50:83:38:42_humidity", "70:ee:50:96:39:94_humidity", 
+                    "70:ee:50:96:32:ea_humidity", "70:ee:50:96:1d:fc_temperature", "70:ee:50:96:55:1e_temperature", 
+                    "70:ee:50:96:61:72_temperature", "70:ee:50:96:49:28_temperature", "70:ee:50:96:32:a4_temperature", 
+                    "70:ee:50:96:32:ea_temperature"],
+        "resample": {
+            "value": 10,
+            "subject": "minutes",
+            "method": "mean"
+        },
+        "pilot_db": "ieecp_test"
+    },
+    {
+        "id": 2,
+        "description": "Testing the ML models for comfort prediction",
+        "sensors": ["70:ee:50:96:1d:fc_co2", "70:ee:50:96:55:1e_co2", "70:ee:50:96:49:28_co2", 
+                    "70:ee:50:96:57:ee_co2", "70:ee:50:96:32:a4_co2", "70:ee:50:96:32:ea_co2", "70:ee:50:96:1d:fc_humidity", 
+                    "70:ee:50:96:1e:78_humidity", "70:ee:50:83:38:42_humidity", "70:ee:50:96:39:94_humidity", 
+                    "70:ee:50:96:32:ea_humidity", "70:ee:50:96:1d:fc_temperature", "70:ee:50:96:55:1e_temperature", 
+                    "70:ee:50:96:61:72_temperature", "70:ee:50:96:49:28_temperature", "70:ee:50:96:32:a4_temperature", 
+                    "70:ee:50:96:32:ea_temperature"],
+        "resample": {
+            "value": 10,
+            "subject": "minutes",
+            "method": "mean"
+        },
+        "range": {
+            "value": 1,
+            "subject": "weeks"
+        },
+        "pilot_db": "ieecp_test"
+    },
+    {
+        "id": 3,
+        "description": "Enenrgy forecasting - Training/testing model",
+        "sensors": ["70:ee:50:96:1d:fc_co2", "70:ee:50:96:55:1e_co2", "70:ee:50:96:49:28_co2", 
+                    "70:ee:50:96:57:ee_co2", "70:ee:50:96:32:a4_co2", "70:ee:50:96:32:ea_co2", "70:ee:50:96:1d:fc_humidity", 
+                    "70:ee:50:96:1e:78_humidity", "70:ee:50:83:38:42_humidity", "70:ee:50:96:39:94_humidity", 
+                    "70:ee:50:96:32:ea_humidity", "70:ee:50:96:1d:fc_temperature", "70:ee:50:96:55:1e_temperature", 
+                    "70:ee:50:96:61:72_temperature", "70:ee:50:96:49:28_temperature", "70:ee:50:96:32:a4_temperature", 
+                    "70:ee:50:96:32:ea_temperature", "shellies_db-pilot8-ieecp-pl1_emeter_0", "shellies_db-pilot8-ieecp-pl1_emeter_1", 
+                    "shellies_db-pilot8-ieecp-pl2_emeter_0", "shellies_db-pilot8-ieecp-pl2_emeter_1"],
+        "resample": {
+            "value": 1,
+            "subject": "hours",
+            "method": "mean"
+        },
+        "range": {
+            "value": 1,
+            "subject": "weeks"
+        },
+        "pilot_db": "ieecp_test"
+    },
+    {
+        "id": 4,
+        "description": "Optimization of energy consumption considering comfort mantainance - train",
+        "sensors": ["70:ee:50:96:1d:fc_co2", "70:ee:50:96:55:1e_co2", "70:ee:50:96:49:28_co2", 
+                    "70:ee:50:96:57:ee_co2", "70:ee:50:96:32:a4_co2", "70:ee:50:96:32:ea_co2", "70:ee:50:96:1d:fc_humidity", 
+                    "70:ee:50:96:1e:78_humidity", "70:ee:50:83:38:42_humidity", "70:ee:50:96:39:94_humidity", 
+                    "70:ee:50:96:32:ea_humidity", "70:ee:50:96:1d:fc_temperature", "70:ee:50:96:55:1e_temperature", 
+                    "70:ee:50:96:61:72_temperature", "70:ee:50:96:49:28_temperature", "70:ee:50:96:32:a4_temperature", 
+                    "70:ee:50:96:32:ea_temperature", "shellies_db-pilot8-ieecp-pl1_emeter_0", "shellies_db-pilot8-ieecp-pl1_emeter_1", 
+                    "shellies_db-pilot8-ieecp-pl2_emeter_0", "shellies_db-pilot8-ieecp-pl2_emeter_1"],
+        "resample": {
+            "value": 1,
+            "subject": "hours",
+            "method": "mean"
+        },
+        "pilot_db": "ieecp_test"
+    }
+    
+]

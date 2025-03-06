@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "description": "Testing the ML models for comfort classification",
+        "sensors": ["z1_temp", "z2_temp", "cont_z1_rit", "cont_z1_man", "cont_z2_man", "cont_z2_rit", 
+                    "z1_rh", "z2_rh", "z2_co2", "z2_voc", "Luminosity Zone 1", "Luminosity Zone 2", 
+                    "Luminosity Zone 3", "Luminosity Zone 4", "presenza_1", "presenza_3"],
+        "resample": {
+            "value": 10,
+            "subject": "minutes",
+            "method": "mean"
+        },
+        "pilot_db": "focchi_test"
+    },
+    {
+        "id": 2,
+        "description": "Testing the ML models for comfort prediction",
+        "sensors": ["z1_temp", "z2_temp", "cont_z1_rit", "cont_z1_man", "cont_z2_man", "cont_z2_rit", 
+                    "z1_rh", "z2_rh", "z2_co2", "z2_voc", "Luminosity Zone 1", "Luminosity Zone 2", 
+                    "Luminosity Zone 3", "Luminosity Zone 4", "presenza_1", "presenza_3"],
+        "resample": {
+            "value": 10,
+            "subject": "minutes",
+            "method": "mean"
+        },
+        "range": {
+            "value": 1,
+            "subject": "weeks"
+        },
+        "pilot_db": "focchi_test"
+    },
+    {
+        "id": 3,
+        "description": "Enenrgy forecasting - Training/testing model",
+        "sensors": ["2672996_Power", "cont_z1_pot", "cont_z2_pot", "mul_fc_p_att", "mul_ill_p_att", 
+                    "mul_gen_p_att", "coolingUnit_power", "officeAuxiliary_power", "cont_z1_en", "cont_z2_en", 
+                    "mul_fc_e_att", "mul_ill_e_att", "mul_gen_e_att", "z1_temp", "z2_temp", "cont_z1_rit", 
+                    "cont_z1_man", "cont_z2_man", "cont_z2_rit", "z1_rh", "z2_rh", "z2_co2", "z2_voc", 
+                    "Luminosity Zone 1", "Luminosity Zone 2", "Luminosity Zone 3", "Luminosity Zone 4", 
+                    "mul_fc_freq", "mul_ill_freq", "mul_gen_freq", "presenza_1", "presenza_3"],
+        "resample": {
+            "value": 1,
+            "subject": "hours",
+            "method": "mean"
+        },
+        "range": {
+            "value": 1,
+            "subject": "weeks"
+        },
+        "pilot_db": "focchi_test"
+    },
+    {
+        "id": 4,
+        "description": "Optimization of energy consumption considering comfort mantainance - train",
+        "sensors": ["2672996_Power", "cont_z1_pot", "cont_z2_pot", "mul_fc_p_att", "mul_ill_p_att", 
+                    "mul_gen_p_att", "coolingUnit_power", "officeAuxiliary_power", "cont_z1_en", "cont_z2_en", 
+                    "mul_fc_e_att", "mul_ill_e_att", "mul_gen_e_att", "z1_temp", "z2_temp", "cont_z1_rit", 
+                    "cont_z1_man", "cont_z2_man", "cont_z2_rit", "z1_rh", "z2_rh", "z2_co2", "z2_voc", 
+                    "Luminosity Zone 1", "Luminosity Zone 2", "Luminosity Zone 3", "Luminosity Zone 4", 
+                    "mul_fc_freq", "mul_ill_freq", "mul_gen_freq", "presenza_1", "presenza_3"],
+        "resample": {
+            "value": 1,
+            "subject": "hours",
+            "method": "mean"
+        },
+        "pilot_db": "focchi_test"
+    }
+    
+]

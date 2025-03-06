@@ -1,0 +1,43 @@
+[
+    {
+        "id": 3,
+        "description": "Enenrgy forecasting - Training/testing model",
+        "sensors": ["PSW TE16-XX-CE-001/Modbus TCP Gateway/L15-C2-HIU/PressSwitch", 
+                    "PSW TE16-XX-CE-001/Modbus TCP Gateway/L15-C2-HIU/StepperPos", 
+                    "PSW TE16-XX-CE-001/Modbus TCP Gateway/L4-C2-HIU/DhwsTemp", 
+                    "PSW TW01-XX-MCC-002/Modbus Master Network/TW01-XX-HM-004/Modbus Signals/Table 13/332 Serial Number", 
+                    "PSW TW01-XX-MCC-002/Modbus Master Network/TW01-XX-HM-004/Modbus Signals/Table 13/338 Config Number 2", 
+                    "PSW TW20-XX-CE-001/BACnet Interface/Application/Energy Monitoring/Residential Apartments/TW06-01-CE-001/DHW Temp_C2", 
+                    "PSW TW20-XX-CE-001/Modbus TCP Gateway/L5-C1-HIU/DhwsTemp", 
+                    "PSW TW20-XX-CE-001/Residentail Apartments/TW19-01-CE-001/HIUs/C2/Variables/DHW Temp"],
+        "resample": {
+            "value": 1,
+            "subject": "hours",
+            "method": "mean"
+        },
+        "range": {
+            "value": 1,
+            "subject": "weeks"
+        },
+        "pilot_db": "ucl_test"
+    },
+    {
+        "id": 4,
+        "description": "Optimization of energy consumption considering comfort mantainance - train",
+        "sensors": ["PSW TE16-XX-CE-001/Modbus TCP Gateway/L15-C2-HIU/PressSwitch", 
+                    "PSW TE16-XX-CE-001/Modbus TCP Gateway/L15-C2-HIU/StepperPos", 
+                    "PSW TE16-XX-CE-001/Modbus TCP Gateway/L4-C2-HIU/DhwsTemp", 
+                    "PSW TW01-XX-MCC-002/Modbus Master Network/TW01-XX-HM-004/Modbus Signals/Table 13/332 Serial Number", 
+                    "PSW TW01-XX-MCC-002/Modbus Master Network/TW01-XX-HM-004/Modbus Signals/Table 13/338 Config Number 2", 
+                    "PSW TW20-XX-CE-001/BACnet Interface/Application/Energy Monitoring/Residential Apartments/TW06-01-CE-001/DHW Temp_C2", 
+                    "PSW TW20-XX-CE-001/Modbus TCP Gateway/L5-C1-HIU/DhwsTemp", 
+                    "PSW TW20-XX-CE-001/Residentail Apartments/TW19-01-CE-001/HIUs/C2/Variables/DHW Temp"],
+        "resample": {
+            "value": 1,
+            "subject": "hours",
+            "method": "mean"
+        },
+        "pilot_db": "ucl_test"
+    }
+    
+]
