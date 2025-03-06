@@ -15,7 +15,7 @@ COPY . .
 
 # Setta le variabili d'ambiente (puoi modificarle in base alle tue necessità)
 ENV KEYCLOACK_USERNAME='vcipollone'
-ENV KEYCLOACK_PASSWORD='4K@y0<u6kVD('
+ENV KEYCLOACK_PASSWORD=''
 ENV KEYCLOACK_URL='https://digibuild.epu.ntua.gr/auth/realms/DIGIBUILD/protocol/openid-connect/token'
 ENV URL_DATA='https://digibuild.epu.ntua.gr/data_sharing/federated_querying/execute_query/'
 ENV URL_OPENMETEO_FORECAST1='https://api.open-meteo.com/v1/forecast?latitude=60.17&longitude=24.94&hourly=temperature_2m&forecast=1&timezone=Europe/Helsinki'
