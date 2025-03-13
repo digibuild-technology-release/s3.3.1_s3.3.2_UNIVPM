@@ -56,7 +56,7 @@ password = os.getenv("KEYCLOACK_PASSWORD")
 df_sensors = load_sensors_from_excel("sensor_room.xlsx")
 
 # Ottieni i dati dei sensori per ogni stanza
-def get_room_dataframes():
+def get_room_dataframes(token):
     room_dataframes = {}
     unique_rooms = get_unique_rooms(df_sensors)
     
@@ -76,7 +76,7 @@ def get_room_dataframes():
 async def predict_dynamic():
     try:
         token = gen_token(username, password)
-        room_dataframes = get_room_dataframes()
+        room_dataframes = get_room_dataframes(token)
         if not room_dataframes:
             raise HTTPException(status_code=500, detail="No sensor data available for the rooms.")
         
